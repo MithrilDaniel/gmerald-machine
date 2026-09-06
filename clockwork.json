@@ -29,8 +29,8 @@
   "treasury": "0x259c3Fc3Dad6B8e418b44c238C7Be65284244e4A"
  },
  "split": {
-  "burnBps": 10000,
-  "treasuryBps": 0,
+  "burnBps": 5000,
+  "treasuryBps": 5000,
   "opsBps": 0,
   "serviceBps": 0
  },
