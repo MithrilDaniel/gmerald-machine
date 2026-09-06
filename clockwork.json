@@ -59,7 +59,7 @@
   "vest": "burn"
  },
  "claim": {
-  "mode": "manual"
+  "mode": "auto"
  },
  "telegram": {
   "mode": "own",
