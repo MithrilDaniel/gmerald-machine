@@ -1,8 +1,7 @@
 name: clockwork
 on:
-  # schedule: the backup clock is switched on at the cutover
-  # schedule:
-  #   - cron: "3,18,33,48 * * * *"
+  schedule:
+    - cron: "0,15,30,45 * * * *"   # the clock, until cron-job.org points here; github may run it a few minutes late
   workflow_dispatch:
     inputs:
       job: { description: "press | dry | doctor | claimcheck | holders | tgcheck", default: press, type: choice, options: [press, dry, doctor, claimcheck, holders, tgcheck] }
