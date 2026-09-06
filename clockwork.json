@@ -60,7 +60,7 @@
  },
  "claim": {
   "mode": "auto",
-  "floor": 5,
+  "floor": 10,
   "atLeastEveryHours": 24
  },
  "telegram": {
