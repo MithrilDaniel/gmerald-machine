@@ -1,13 +1,13 @@
 {
- "presses": 29,
- "snacks": 224,
- "checkedAt": "2026-09-06T22:16:45.373Z",
+ "presses": 30,
+ "snacks": 226,
+ "checkedAt": "2026-09-06T22:30:35.875Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 112,
-  "tokenUsd": 19.410528208610945,
+  "premiumBps": 107,
+  "tokenUsd": 19.400134308016764,
   "fairUsd": 19.195,
-  "note": "token $19.41 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.12%"
+  "note": "token $19.40 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.07%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -32,13 +32,13 @@
    "burned": 14023750
   },
   "2026-09-06": {
-   "snacks": 20,
-   "gme": 41.3976,
-   "burned": 3274913
+   "snacks": 22,
+   "gme": 66.0251,
+   "burned": 4064622
   }
  },
  "holders": 2616,
- "lastRunAt": "2026-09-06T22:16:28.414Z",
+ "lastRunAt": "2026-09-06T22:30:21.730Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -47,18 +47,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "13.9831",
+ "escrowOwed": "11.3152",
  "claimFloor": 3,
- "gasEth": "0.0322",
+ "gasEth": "0.0319",
  "gasLow": false,
- "queuedGme": "176.642069150776472798",
- "sliceGme": "44.16",
+ "queuedGme": "138.702315392839795731",
+ "sliceGme": "34.68",
  "slicesLeft": 4,
- "burnedPct": "19.39",
- "stashGme": "2501.10",
- "gmeSunk": "5353.12",
- "status": "snacking. 4 slices of ~44 gme to go",
- "updatedAt": "2026-09-06T22:16:45.373Z",
+ "burnedPct": "19.47",
+ "stashGme": "2525.73",
+ "gmeSunk": "5402.37",
+ "status": "snacking. 4 slices of ~35 gme to go",
+ "updatedAt": "2026-09-06T22:30:35.875Z",
  "seats": 211,
  "gmeRank": {
   "rank": 8,
@@ -66,10 +66,10 @@
   "at": "2026-09-06T22:00:35.057Z"
  },
  "basis": {
-  "stashCostUsd": 47677.83,
+  "stashCostUsd": 48150.55,
   "stashAvgUsd": 19.06,
-  "fedCostUsd": 54438.39,
-  "pricedGme": 2501.1,
-  "totalGme": 2501.1
+  "fedCostUsd": 54911.11,
+  "pricedGme": 2525.73,
+  "totalGme": 2525.73
  }
 }
