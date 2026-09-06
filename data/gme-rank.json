@@ -4,25 +4,25 @@
  "watch": {
   "0x8366a39cc670b4001a1121b8f6a443a643e40951": {
    "name": "PoolManager",
-   "gme": 57633.12530145391,
+   "gme": 55976.7428904378,
    "code": 24009,
    "out": true
   },
   "0xe2b46c905e12ab8e2f864e4821a4325884c1b126": {
    "name": "UniswapV3Pool",
-   "gme": 15894.240700521095,
+   "gme": 16549.951090608243,
    "code": 22142,
    "out": true
   },
   "0xe9713f453adb9245b19559790c96f470a18f2fdf": {
    "name": "UniswapV3Pool",
-   "gme": 33665.784988659165,
+   "gme": 34098.22379836323,
    "code": 22142,
    "out": true
   },
   "0x5795d227dcc305afe212bef18e81b111def7c324": {
    "name": "ERC1967Proxy",
-   "gme": 9529.71625760244,
+   "gme": 9503.940863845832,
    "code": 130,
    "out": false
   },
@@ -43,7 +43,7 @@
   },
   "0x6f02324d20cc679d0e585290caa6b16bacbc0f77": {
    "name": "RehypeDopplerHookInitializer",
-   "gme": 3254.7795646040586,
+   "gme": 3268.4957866347777,
    "code": 14564,
    "out": true
   },
@@ -59,13 +59,13 @@
    "out": false
   },
   "0x259c3fc3dad6b8e418b44c238c7be65284244e4a": {
-   "gme": 2487.983538195148,
+   "gme": 2543.9460624322205,
    "code": 0,
    "out": false
   },
   "0xc6bcc95043dc48c204bb2d57fb264a10efe0a607": {
    "name": "UniswapV3Pool",
-   "gme": 3546.6203707268533,
+   "gme": 3809.8451639037216,
    "code": 22142,
    "out": true
   },
@@ -81,13 +81,13 @@
    "out": false
   },
   "0xf60633d02690e2a15a54ab919925f3d038df163e": {
-   "gme": 2419.9650831809527,
+   "gme": 2451.6674163368216,
    "code": 0,
    "out": false
   },
   "0xd3afeb2a57f70ef218aa82451c51b2fb0416ac9e": {
    "name": "V2FeeEscrow",
-   "gme": 2011.3117694118844,
+   "gme": 1882.7676799548753,
    "code": 1932,
    "out": true
   },
@@ -97,7 +97,7 @@
    "out": false
   },
   "0x53e68553ca08f512423628d64c01b0a14dfcda99": {
-   "gme": 1203.6187144340017,
+   "gme": 1206.2106623321288,
    "code": 0,
    "out": false
   },
@@ -119,24 +119,24 @@
   },
   "0xa4a727e0918cf9b39639fc4cb7d742d39c5352a4": {
    "name": "SafeProxy",
-   "gme": 999.2919473946953,
+   "gme": 999.4628852386614,
    "code": 171,
    "out": false
   },
   "0x0a0675689c2ad2a3ade86539bcbd27b6c0764e9d": {
    "name": "UniswapV3Pool",
-   "gme": 746.3441638010604,
+   "gme": 745.8952657928362,
    "code": 22142,
    "out": true
   },
   "0xda0ee6b8ef5d3a2338a15621fabf6619070f1b64": {
-   "gme": 266.727699553649,
+   "gme": 283.66512287228664,
    "code": 45,
    "out": false
   },
   "0xe5e702641ea86f4ae6cc3cdaed2b886f976be044": {
    "name": "V2MemeHook",
-   "gme": 836.2215570921538,
+   "gme": 846.036026652699,
    "code": 15167,
    "out": true
   },
@@ -147,13 +147,13 @@
   },
   "0xf1436ae51a14472ba87bc196bbccd13955d86d7c": {
    "name": "UniswapV3Pool",
-   "gme": 476.83216676689307,
+   "gme": 710.8940548215718,
    "code": 22142,
    "out": true
   },
   "0x4e3468951d49f2eea976ed0d6e75ffcb44a9a544": {
    "name": "DopplerHookInitializer",
-   "gme": 508.6955369501558,
+   "gme": 508.70523925181,
    "code": 25533,
    "out": true
   },
@@ -194,12 +194,12 @@
   },
   "0xe04fba61fd54ba78dd450a30d8af40167af5d3ec": {
    "name": "QuotronReflectionsV2",
-   "gme": 429.7179051756154,
+   "gme": 435.6553711752841,
    "code": 11071,
    "out": true
   },
   "0x2a4d34cd09a36f59ae3bedc0880cd5da929321d7": {
-   "gme": 498.82516218541974,
+   "gme": 498.77480814016155,
    "code": 0,
    "out": false
   },
@@ -215,12 +215,12 @@
    "out": false
   },
   "0x92d435c96e63c43e12d6d0ab28f6b0b04072f765": {
-   "gme": 511.50904958880653,
+   "gme": 516.7189921624561,
    "code": 0,
    "out": false
   },
   "0x5709149a8a46980be469fb357e51602a9bed656e": {
-   "gme": 385.03999993525144,
+   "gme": 358.89763134137286,
    "code": 11296,
    "out": true
   },
@@ -245,14 +245,14 @@
    "out": false
   }
  },
- "lastBlock": "56317908",
+ "lastBlock": "56353636",
  "rank": 8,
- "of": 36,
- "at": "2026-09-06T22:00:35.057Z",
+ "of": 33,
+ "at": "2026-09-06T23:00:42.484Z",
  "above": [
   {
    "address": "0x5795d227dcc305afe212bef18e81b111def7c324",
-   "gme": 9530,
+   "gme": 9504,
    "name": "ERC1967Proxy"
   },
   {
