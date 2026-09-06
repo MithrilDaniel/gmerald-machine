@@ -59,7 +59,9 @@
   "vest": "burn"
  },
  "claim": {
-  "mode": "auto"
+  "mode": "auto",
+  "floor": 5,
+  "atLeastEveryHours": 24
  },
  "telegram": {
   "mode": "own",
