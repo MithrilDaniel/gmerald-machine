@@ -41,16 +41,17 @@
  },
  "slices": {
   "rule": {
-   "kind": "fixed",
-   "amount": 1
+   "kind": "spread",
+   "hours": 1
   },
   "dip": {
-   "on": false,
+   "on": true,
    "bandBps": 1000,
    "multiplier": 2
   },
   "quoteSanityBps": 1500,
-  "maxSlippageBps": 200
+  "maxSlippageBps": 300,
+  "minSlice": 0.05
  },
  "burn": {
   "method": "burn"
@@ -60,8 +61,8 @@
  },
  "claim": {
   "mode": "auto",
-  "floor": 10,
-  "atLeastEveryHours": 24
+  "floor": 3,
+  "atLeastEveryHours": 4
  },
  "telegram": {
   "mode": "own",
