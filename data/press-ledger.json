@@ -1,21 +1,6 @@
 {
  "presses": [
   {
-   "n": 214,
-   "ts": "2026-09-05T19:30:29.168Z",
-   "explorer": "https://robinhoodchain.blockscout.com",
-   "kind": "snack",
-   "note": "pressed",
-   "burnedGmerald": "451757",
-   "burnGmeSpent": "10.0000",
-   "stashedGme": "0.0000",
-   "opsMovedGme": "0.0000",
-   "pegStatus": "at-or-above (+0.59%)",
-   "burnTx": "0x0ff49c89cc6ef5d02cb79eb81ccacbeed3ddc562ef85d54ff124947ed52075c1",
-   "gmeUsd": 19.195,
-   "k": 198
-  },
-  {
    "n": 215,
    "ts": "2026-09-05T19:45:33.368Z",
    "explorer": "https://robinhoodchain.blockscout.com",
@@ -410,22 +395,6 @@
    "serviceGme": "0.0000",
    "gmeUsd": 19.195,
    "k": 223
-  },
-  {
-   "n": 252,
-   "ts": "2026-09-06T22:16:38.695Z",
-   "explorer": "https://robinhoodchain.blockscout.com",
-   "kind": "press",
-   "note": "press: 13.98 gme claimed from the fee escrow.",
-   "burnedGmerald": "0",
-   "burnGmeSpent": "0",
-   "stashedGme": "0",
-   "opsMovedGme": "0",
-   "pegStatus": "n/a",
-   "stashTx": "0x6de96d7286e1d75400e5cf7ae2ee18309055b8e4030d0f7785cb10bff006f4bb",
-   "gmeUsd": 19.195,
-   "claimedGme": "13.9831",
-   "k": 29
   },
   {
    "n": 253,
@@ -976,15 +945,48 @@
    "serviceGme": "0.0000",
    "gmeUsd": 19.195,
    "k": 245
+  },
+  {
+   "n": 286,
+   "ts": "2026-09-07T03:30:35.189Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "press",
+   "note": "press: 3.56 gme claimed from the fee escrow.",
+   "burnedGmerald": "0",
+   "burnGmeSpent": "0",
+   "stashedGme": "0",
+   "opsMovedGme": "0",
+   "pegStatus": "n/a",
+   "stashTx": "0xe4efb006a0ffe6931aa6bb9047384485aa04f86048772d60a016c75ce881669b",
+   "gmeUsd": 19.195,
+   "claimedGme": "3.5580",
+   "k": 41
+  },
+  {
+   "n": 287,
+   "ts": "2026-09-07T03:30:39.794Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed",
+   "burnedGmerald": "20839",
+   "burnGmeSpent": "0.6781",
+   "stashedGme": "0.6781",
+   "opsMovedGme": "0.0000",
+   "pegStatus": "at-or-above (+1.09%)",
+   "burnTx": "0xf3d1e4a00a57695d0f97abb8123a1681563d9f199c8eec31daf441d1aed67b79",
+   "stashTx": "0xcb581ddd65d20bedc26aa4feec96360e2eb9b617bc7bcaf6e6ad6756fba4182c",
+   "serviceGme": "0.0000",
+   "gmeUsd": 19.195,
+   "k": 246
   }
  ],
- "stashScanBlock": "56505184",
+ "stashScanBlock": "56514169",
  "totals": {
-  "press": 40,
-  "snack": 245,
-  "burnGme": 2977.1704999999984,
-  "stashedGme": 2626.2563999999998,
-  "burnedGmerald": 197339396
+  "press": 41,
+  "snack": 246,
+  "burnGme": 2977.8485999999984,
+  "stashedGme": 2626.9345,
+  "burnedGmerald": 197360235
  },
  "meta": {}
 }
