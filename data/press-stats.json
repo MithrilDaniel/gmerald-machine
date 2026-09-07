@@ -1,13 +1,13 @@
 {
- "presses": 35,
- "snacks": 235,
- "checkedAt": "2026-09-07T00:45:31.955Z",
+ "presses": 36,
+ "snacks": 236,
+ "checkedAt": "2026-09-07T01:00:46.033Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 137,
-  "tokenUsd": 19.458630970397053,
+  "premiumBps": 133,
+  "tokenUsd": 19.450312171854595,
   "fairUsd": 19.195,
-  "note": "token $19.46 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.37%"
+  "note": "token $19.45 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.33%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 4,
-   "gme": 15.483800000000002,
-   "burned": 495921
+   "snacks": 5,
+   "gme": 16.6248,
+   "burned": 522237
   }
  },
  "holders": 2606,
- "lastRunAt": "2026-09-07T00:45:24.329Z",
+ "lastRunAt": "2026-09-07T01:00:27.857Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,29 +52,29 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "2.9356",
+ "escrowOwed": "13.2433",
  "claimFloor": 3,
- "gasEth": "0.0305",
+ "gasEth": "0.0304",
  "gasLow": false,
- "queuedGme": "5.013146053456153797",
- "sliceGme": "2.51",
- "slicesLeft": 2,
+ "queuedGme": "15.974401360981562531",
+ "sliceGme": "3.99",
+ "slicesLeft": 4,
  "burnedPct": "19.75",
- "stashGme": "2605.80",
- "gmeSunk": "5562.51",
- "status": "snacking. 2 slices of ~3 gme to go",
- "updatedAt": "2026-09-07T00:45:31.955Z",
+ "stashGme": "2606.94",
+ "gmeSunk": "5564.79",
+ "status": "snacking. 4 slices of ~4 gme to go",
+ "updatedAt": "2026-09-07T01:00:46.033Z",
  "seats": 210,
  "gmeRank": {
   "rank": 8,
   "of": 32,
-  "at": "2026-09-07T00:00:40.441Z"
+  "at": "2026-09-07T01:00:35.770Z"
  },
  "basis": {
-  "stashCostUsd": 49687.52,
+  "stashCostUsd": 49709.42,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 56448.08,
-  "pricedGme": 2605.8,
-  "totalGme": 2605.8
+  "fedCostUsd": 56469.98,
+  "pricedGme": 2606.94,
+  "totalGme": 2606.94
  }
 }
