@@ -1,13 +1,13 @@
 {
  "presses": 53,
- "snacks": 276,
- "checkedAt": "2026-09-07T15:30:41.803Z",
+ "snacks": 277,
+ "checkedAt": "2026-09-07T15:45:44.782Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 23,
-  "tokenUsd": 19.238731785690476,
+  "premiumBps": 13,
+  "tokenUsd": 19.219776065229293,
   "fairUsd": 19.195,
-  "note": "token $19.24 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.23%"
+  "note": "token $19.22 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.13%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 45,
-   "gme": 70.32469999999998,
-   "burned": 2155689
+   "snacks": 46,
+   "gme": 70.83599999999998,
+   "burned": 2174123
   }
  },
- "holders": 2572,
- "lastRunAt": "2026-09-07T15:30:24.652Z",
+ "holders": 2561,
+ "lastRunAt": "2026-09-07T15:45:26.278Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,29 +52,29 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "3.0680",
+ "escrowOwed": "1.4072",
  "claimFloor": 3,
- "gasEth": "0.0251",
+ "gasEth": "0.0249",
  "gasLow": false,
- "queuedGme": "1.533977313368544168",
- "sliceGme": "0.38",
- "slicesLeft": 4,
+ "queuedGme": "0.511325771122848056",
+ "sliceGme": "0.17",
+ "slicesLeft": 3,
  "burnedPct": "19.92",
- "stashGme": "2660.64",
- "gmeSunk": "5672.19",
- "status": "snacking. 4 slices of ~0 gme to go",
- "updatedAt": "2026-09-07T15:30:41.803Z",
- "seats": 203,
+ "stashGme": "2661.15",
+ "gmeSunk": "5673.22",
+ "status": "snacking. 3 slices of ~0 gme to go",
+ "updatedAt": "2026-09-07T15:45:44.782Z",
+ "seats": 202,
  "gmeRank": {
   "rank": 8,
   "of": 32,
   "at": "2026-09-07T15:00:41.735Z"
  },
  "basis": {
-  "stashCostUsd": 50740.19,
+  "stashCostUsd": 50750,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57500.75,
-  "pricedGme": 2660.64,
-  "totalGme": 2660.64
+  "fedCostUsd": 57510.56,
+  "pricedGme": 2661.15,
+  "totalGme": 2661.15
  }
 }
