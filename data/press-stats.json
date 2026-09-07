@@ -1,13 +1,13 @@
 {
  "presses": 34,
- "snacks": 231,
- "checkedAt": "2026-09-06T23:45:35.932Z",
+ "snacks": 232,
+ "checkedAt": "2026-09-07T00:00:51.545Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 122,
-  "tokenUsd": 19.428558591587578,
+  "premiumBps": 131,
+  "tokenUsd": 19.446647500519344,
   "fairUsd": 19.195,
-  "note": "token $19.43 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.22%"
+  "note": "token $19.45 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.31%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -35,10 +35,15 @@
    "snacks": 27,
    "gme": 130.6123,
    "burned": 6413039
+  },
+  "2026-09-07": {
+   "snacks": 1,
+   "gme": 7.964,
+   "burned": 251410
   }
  },
  "holders": 2609,
- "lastRunAt": "2026-09-06T23:45:20.462Z",
+ "lastRunAt": "2026-09-07T00:00:32.315Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -47,29 +52,29 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "1.9338",
+ "escrowOwed": "2.3703",
  "claimFloor": 3,
- "gasEth": "0.0311",
+ "gasEth": "0.0309",
  "gasLow": false,
- "queuedGme": "31.856119289376019095",
- "sliceGme": "10.62",
- "slicesLeft": 3,
- "burnedPct": "19.70",
- "stashGme": "2590.32",
- "gmeSunk": "5531.55",
- "status": "snacking. 3 slices of ~11 gme to go",
- "updatedAt": "2026-09-06T23:45:35.932Z",
+ "queuedGme": "15.928059644688009549",
+ "sliceGme": "7.96",
+ "slicesLeft": 2,
+ "burnedPct": "19.73",
+ "stashGme": "2598.28",
+ "gmeSunk": "5547.47",
+ "status": "snacking. 2 slices of ~8 gme to go",
+ "updatedAt": "2026-09-07T00:00:51.545Z",
  "seats": 212,
  "gmeRank": {
   "rank": 8,
-  "of": 33,
-  "at": "2026-09-06T23:00:42.484Z"
+  "of": 32,
+  "at": "2026-09-07T00:00:40.441Z"
  },
  "basis": {
-  "stashCostUsd": 49390.3,
+  "stashCostUsd": 49543.17,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 56150.87,
-  "pricedGme": 2590.32,
-  "totalGme": 2590.32
+  "fedCostUsd": 56303.73,
+  "pricedGme": 2598.28,
+  "totalGme": 2598.28
  }
 }
