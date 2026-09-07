@@ -1,13 +1,13 @@
 {
  "presses": 49,
- "snacks": 265,
- "checkedAt": "2026-09-07T12:15:30.375Z",
+ "snacks": 266,
+ "checkedAt": "2026-09-07T12:30:40.643Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 57,
-  "tokenUsd": 19.303608129105125,
+  "premiumBps": 37,
+  "tokenUsd": 19.265711155724333,
   "fairUsd": 19.195,
-  "note": "token $19.30 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.57%"
+  "note": "token $19.27 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.37%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 34,
-   "gme": 53.75139999999998,
-   "burned": 1613252
+   "snacks": 35,
+   "gme": 60.183599999999984,
+   "burned": 1802111
   }
  },
  "holders": 2581,
- "lastRunAt": "2026-09-07T12:15:21.953Z",
+ "lastRunAt": "2026-09-07T12:30:25.586Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,18 +52,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "12.7838",
+ "escrowOwed": "0.8324",
  "claimFloor": 3,
- "gasEth": "0.0264",
+ "gasEth": "0.0263",
  "gasLow": false,
- "queuedGme": "19.296748106734008594",
- "sliceGme": "4.82",
- "slicesLeft": 4,
- "burnedPct": "19.86",
- "stashGme": "2644.07",
- "gmeSunk": "5639.05",
- "status": "snacking. 4 slices of ~5 gme to go",
- "updatedAt": "2026-09-07T12:15:30.375Z",
+ "queuedGme": "6.432249368911336198",
+ "sliceGme": "2.14",
+ "slicesLeft": 3,
+ "burnedPct": "19.88",
+ "stashGme": "2650.50",
+ "gmeSunk": "5651.91",
+ "status": "snacking. 3 slices of ~2 gme to go",
+ "updatedAt": "2026-09-07T12:30:40.643Z",
  "seats": 208,
  "gmeRank": {
   "rank": 8,
@@ -71,10 +71,10 @@
   "at": "2026-09-07T12:00:42.239Z"
  },
  "basis": {
-  "stashCostUsd": 50422.06,
+  "stashCostUsd": 50545.53,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57182.62,
-  "pricedGme": 2644.07,
-  "totalGme": 2644.07
+  "fedCostUsd": 57306.09,
+  "pricedGme": 2650.5,
+  "totalGme": 2650.5
  }
 }
