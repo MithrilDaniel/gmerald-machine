@@ -39,6 +39,7 @@ jobs:
       # the feed runs on the same clock, from its own wallet. it stays a dry run that signs nothing until the
       # repository variable FEED_LIVE is set to 1, which is a switch in settings, not a code change.
       - if: steps.guard.outputs.skip != '1'
+        continue-on-error: true
         run: npx --yes clockwork-press@0.2.5 feed
         env:
           npm_config_ignore_scripts: "true"
