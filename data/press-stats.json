@@ -1,13 +1,13 @@
 {
- "presses": 47,
- "snacks": 263,
- "checkedAt": "2026-09-07T11:45:45.941Z",
+ "presses": 48,
+ "snacks": 264,
+ "checkedAt": "2026-09-07T12:00:54.655Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 65,
-  "tokenUsd": 19.320208396579375,
+  "premiumBps": 61,
+  "tokenUsd": 19.311796099980082,
   "fairUsd": 19.195,
-  "note": "token $19.32 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.65%"
+  "note": "token $19.31 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.61%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 32,
-   "gme": 49.610599999999984,
-   "burned": 1497109
+   "snacks": 33,
+   "gme": 50.535299999999985,
+   "burned": 1518984
   }
  },
  "holders": 2581,
- "lastRunAt": "2026-09-07T11:45:27.421Z",
+ "lastRunAt": "2026-09-07T12:00:29.580Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,29 +52,29 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "10.3785",
+ "escrowOwed": "4.2888",
  "claimFloor": 3,
- "gasEth": "0.0267",
+ "gasEth": "0.0266",
  "gasLow": false,
- "queuedGme": "10.505632048265405106",
- "sliceGme": "2.63",
+ "queuedGme": "12.945164168764484848",
+ "sliceGme": "3.24",
  "slicesLeft": 4,
  "burnedPct": "19.85",
- "stashGme": "2639.93",
- "gmeSunk": "5630.77",
+ "stashGme": "2640.85",
+ "gmeSunk": "5632.62",
  "status": "snacking. 4 slices of ~3 gme to go",
- "updatedAt": "2026-09-07T11:45:45.941Z",
+ "updatedAt": "2026-09-07T12:00:54.655Z",
  "seats": 208,
  "gmeRank": {
   "rank": 8,
   "of": 30,
-  "at": "2026-09-07T11:00:33.510Z"
+  "at": "2026-09-07T12:00:42.239Z"
  },
  "basis": {
-  "stashCostUsd": 50342.58,
+  "stashCostUsd": 50360.33,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57103.14,
-  "pricedGme": 2639.93,
-  "totalGme": 2639.93
+  "fedCostUsd": 57120.89,
+  "pricedGme": 2640.85,
+  "totalGme": 2640.85
  }
 }
