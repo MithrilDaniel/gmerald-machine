@@ -123,9 +123,9 @@
     "route": "treasury"
    }
   ],
-  "tranche": 10000000,
-  "dailyCapTokens": 2000000,
-  "walletCapTokens": 200000,
+  "tranche": 15000000,
+  "dailyCapTokens": 3000000,
+  "walletCapTokens": 300000,
   "minUsd": 10,
   "sanityPct": 15
  }
