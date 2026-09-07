@@ -1,13 +1,13 @@
 {
  "presses": 55,
- "snacks": 281,
- "checkedAt": "2026-09-07T16:45:43.372Z",
+ "snacks": 282,
+ "checkedAt": "2026-09-07T17:00:45.305Z",
  "peg": {
   "status": "below",
-  "premiumBps": -15,
-  "tokenUsd": 19.16639141395706,
+  "premiumBps": -10,
+  "tokenUsd": 19.175260789178676,
   "fairUsd": 19.195,
-  "note": "token $19.17 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): -0.15%"
+  "note": "token $19.18 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): -0.10%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 50,
-   "gme": 75.58869999999997,
-   "burned": 2398988
+   "snacks": 51,
+   "gme": 76.22529999999998,
+   "burned": 2428373
   }
  },
  "holders": 2557,
- "lastRunAt": "2026-09-07T16:45:22.220Z",
+ "lastRunAt": "2026-09-07T17:00:27.909Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,29 +52,29 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "3.8194",
+ "escrowOwed": "0.9093",
  "claimFloor": 3,
- "gasEth": "0.0245",
+ "gasEth": "0.0244",
  "gasLow": false,
- "queuedGme": "1.909718394330086527",
- "sliceGme": "0.48",
- "slicesLeft": 4,
+ "queuedGme": "0.636572798110028843",
+ "sliceGme": "0.21",
+ "slicesLeft": 3,
  "burnedPct": "19.94",
- "stashGme": "2665.90",
- "gmeSunk": "5682.72",
- "status": "snacking. 4 slices of ~0 gme to go",
- "updatedAt": "2026-09-07T16:45:43.372Z",
+ "stashGme": "2666.54",
+ "gmeSunk": "5684.00",
+ "status": "snacking. 3 slices of ~0 gme to go",
+ "updatedAt": "2026-09-07T17:00:45.305Z",
  "seats": 202,
  "gmeRank": {
   "rank": 8,
   "of": 31,
-  "at": "2026-09-07T16:00:40.334Z"
+  "at": "2026-09-07T17:00:38.186Z"
  },
  "basis": {
-  "stashCostUsd": 50841.23,
+  "stashCostUsd": 50853.45,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57601.79,
-  "pricedGme": 2665.9,
-  "totalGme": 2665.9
+  "fedCostUsd": 57614.01,
+  "pricedGme": 2666.54,
+  "totalGme": 2666.54
  }
 }
