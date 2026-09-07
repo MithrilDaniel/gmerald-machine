@@ -1,13 +1,13 @@
 {
- "presses": 34,
- "snacks": 232,
- "checkedAt": "2026-09-07T00:00:51.545Z",
+ "presses": 35,
+ "snacks": 233,
+ "checkedAt": "2026-09-07T00:15:41.386Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 131,
-  "tokenUsd": 19.446647500519344,
+  "premiumBps": 124,
+  "tokenUsd": 19.432122182314234,
   "fairUsd": 19.195,
-  "note": "token $19.45 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.31%"
+  "note": "token $19.43 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +1.24%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 1,
-   "gme": 7.964,
-   "burned": 251410
+   "snacks": 2,
+   "gme": 10.470600000000001,
+   "burned": 332099
   }
  },
  "holders": 2609,
- "lastRunAt": "2026-09-07T00:00:32.315Z",
+ "lastRunAt": "2026-09-07T00:15:21.509Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,18 +52,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "2.3703",
+ "escrowOwed": "4.1245",
  "claimFloor": 3,
- "gasEth": "0.0309",
+ "gasEth": "0.0308",
  "gasLow": false,
- "queuedGme": "15.928059644688009549",
- "sliceGme": "7.96",
- "slicesLeft": 2,
- "burnedPct": "19.73",
- "stashGme": "2598.28",
- "gmeSunk": "5547.47",
- "status": "snacking. 2 slices of ~8 gme to go",
- "updatedAt": "2026-09-07T00:00:51.545Z",
+ "queuedGme": "15.039438160368461389",
+ "sliceGme": "3.76",
+ "slicesLeft": 4,
+ "burnedPct": "19.74",
+ "stashGme": "2600.79",
+ "gmeSunk": "5552.49",
+ "status": "snacking. 4 slices of ~4 gme to go",
+ "updatedAt": "2026-09-07T00:15:41.386Z",
  "seats": 212,
  "gmeRank": {
   "rank": 8,
@@ -71,10 +71,10 @@
   "at": "2026-09-07T00:00:40.441Z"
  },
  "basis": {
-  "stashCostUsd": 49543.17,
+  "stashCostUsd": 49591.29,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 56303.73,
-  "pricedGme": 2598.28,
-  "totalGme": 2598.28
+  "fedCostUsd": 56351.85,
+  "pricedGme": 2600.79,
+  "totalGme": 2600.79
  }
 }
