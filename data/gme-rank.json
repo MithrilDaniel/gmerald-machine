@@ -4,25 +4,25 @@
  "watch": {
   "0x8366a39cc670b4001a1121b8f6a443a643e40951": {
    "name": "PoolManager",
-   "gme": 57712.19932913034,
+   "gme": 57572.99421547685,
    "code": 24009,
    "out": true
   },
   "0xe2b46c905e12ab8e2f864e4821a4325884c1b126": {
    "name": "UniswapV3Pool",
-   "gme": 18945.010376427505,
+   "gme": 18472.244844251705,
    "code": 22142,
    "out": true
   },
   "0xe9713f453adb9245b19559790c96f470a18f2fdf": {
    "name": "UniswapV3Pool",
-   "gme": 33766.22686590958,
+   "gme": 34329.93824528941,
    "code": 22142,
    "out": true
   },
   "0x5795d227dcc305afe212bef18e81b111def7c324": {
    "name": "ERC1967Proxy",
-   "gme": 9264.877479660181,
+   "gme": 9239.051805166824,
    "code": 130,
    "out": false
   },
@@ -38,7 +38,7 @@
   },
   "0x6f02324d20cc679d0e585290caa6b16bacbc0f77": {
    "name": "RehypeDopplerHookInitializer",
-   "gme": 3308.4708522961596,
+   "gme": 3308.794113641482,
    "code": 14564,
    "out": true
   },
@@ -60,7 +60,7 @@
   },
   "0xc6bcc95043dc48c204bb2d57fb264a10efe0a607": {
    "name": "UniswapV3Pool",
-   "gme": 3832.6205178768396,
+   "gme": 3604.3561506878646,
    "code": 22142,
    "out": true
   },
@@ -76,13 +76,13 @@
    "out": false
   },
   "0xf60633d02690e2a15a54ab919925f3d038df163e": {
-   "gme": 2539.92605382377,
+   "gme": 2541.0358880711365,
    "code": 0,
    "out": false
   },
   "0xd3afeb2a57f70ef218aa82451c51b2fb0416ac9e": {
    "name": "V2FeeEscrow",
-   "gme": 2370.0595884731465,
+   "gme": 2341.2643375727766,
    "code": 1932,
    "out": true
   },
@@ -92,7 +92,7 @@
    "out": false
   },
   "0x53e68553ca08f512423628d64c01b0a14dfcda99": {
-   "gme": 1199.6273916875175,
+   "gme": 1196.1002352789862,
    "code": 0,
    "out": false
   },
@@ -120,29 +120,29 @@
   },
   "0x0a0675689c2ad2a3ade86539bcbd27b6c0764e9d": {
    "name": "UniswapV3Pool",
-   "gme": 864.3813555315359,
+   "gme": 923.0478929777036,
    "code": 22142,
    "out": true
   },
   "0xda0ee6b8ef5d3a2338a15621fabf6619070f1b64": {
-   "gme": 592.5542305016327,
+   "gme": 576.3477040901305,
    "code": 45,
    "out": false
   },
   "0xe5e702641ea86f4ae6cc3cdaed2b886f976be044": {
    "name": "V2MemeHook",
-   "gme": 864.6668568065397,
+   "gme": 860.9158140261713,
    "code": 15167,
    "out": true
   },
   "0xb504e110915ce64c0b8bfb4b88af0ae985e0a01b": {
-   "gme": 408.98614648108247,
+   "gme": 350.34638944701834,
    "code": 22142,
    "out": true
   },
   "0xf1436ae51a14472ba87bc196bbccd13955d86d7c": {
    "name": "UniswapV3Pool",
-   "gme": 542.1522668156082,
+   "gme": 512.1986594549056,
    "code": 22142,
    "out": true
   },
@@ -189,12 +189,12 @@
   },
   "0xe04fba61fd54ba78dd450a30d8af40167af5d3ec": {
    "name": "QuotronReflectionsV2",
-   "gme": 418.43430389341864,
+   "gme": 418.2710974800474,
    "code": 11071,
    "out": true
   },
   "0x2a4d34cd09a36f59ae3bedc0880cd5da929321d7": {
-   "gme": 500.31048420917807,
+   "gme": 496.8663895575004,
    "code": 0,
    "out": false
   },
@@ -205,17 +205,17 @@
   },
   "0x724b83d5fb39faeebf0b92bd1ea36c3423059b98": {
    "name": "BeaconProxy",
-   "gme": 545.7642354297894,
+   "gme": 545.7381322189607,
    "code": 283,
    "out": false
   },
   "0x92d435c96e63c43e12d6d0ab28f6b0b04072f765": {
-   "gme": 556.1739944614063,
+   "gme": 557.7898529277717,
    "code": 0,
    "out": false
   },
   "0x5709149a8a46980be469fb357e51602a9bed656e": {
-   "gme": 341.0814970106012,
+   "gme": 344.4779341601847,
    "code": 11296,
    "out": true
   },
@@ -235,14 +235,14 @@
    "out": true
   }
  },
- "lastBlock": "56710413",
+ "lastBlock": "56746168",
  "rank": 8,
  "of": 30,
- "at": "2026-09-07T09:00:35.811Z",
+ "at": "2026-09-07T10:00:40.888Z",
  "above": [
   {
    "address": "0x5795d227dcc305afe212bef18e81b111def7c324",
-   "gme": 9265,
+   "gme": 9239,
    "name": "ERC1967Proxy"
   },
   {
