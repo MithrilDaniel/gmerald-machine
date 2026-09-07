@@ -1,13 +1,13 @@
 {
  "presses": 59,
- "snacks": 293,
- "checkedAt": "2026-09-07T21:15:29.418Z",
+ "snacks": 294,
+ "checkedAt": "2026-09-07T21:30:35.407Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 17,
-  "tokenUsd": 19.228300395038442,
+  "premiumBps": 21,
+  "tokenUsd": 19.236207083500332,
   "fairUsd": 19.195,
-  "note": "token $19.23 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.17%"
+  "note": "token $19.24 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.21%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 62,
-   "gme": 83.45189999999997,
-   "burned": 2727494
+   "snacks": 63,
+   "gme": 83.79329999999996,
+   "burned": 2740554
   }
  },
  "holders": 2559,
- "lastRunAt": "2026-09-07T21:15:19.808Z",
+ "lastRunAt": "2026-09-07T21:30:22.030Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,18 +52,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "4.0972",
+ "escrowOwed": "0.8669",
  "claimFloor": 3,
- "gasEth": "0.0229",
+ "gasEth": "0.0227",
  "gasLow": false,
- "queuedGme": "2.048602899207716077",
- "sliceGme": "0.51",
- "slicesLeft": 4,
- "burnedPct": "19.97",
- "stashGme": "2673.77",
- "gmeSunk": "5698.45",
- "status": "snacking. 4 slices of ~1 gme to go",
- "updatedAt": "2026-09-07T21:15:29.418Z",
+ "queuedGme": "1.365735266138477385",
+ "sliceGme": "0.46",
+ "slicesLeft": 3,
+ "burnedPct": "19.98",
+ "stashGme": "2674.11",
+ "gmeSunk": "5699.13",
+ "status": "snacking. 3 slices of ~0 gme to go",
+ "updatedAt": "2026-09-07T21:30:35.407Z",
  "seats": 203,
  "gmeRank": {
   "rank": 8,
@@ -71,10 +71,10 @@
   "at": "2026-09-07T21:01:02.929Z"
  },
  "basis": {
-  "stashCostUsd": 50992.16,
+  "stashCostUsd": 50998.72,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57752.72,
-  "pricedGme": 2673.77,
-  "totalGme": 2673.77
+  "fedCostUsd": 57759.28,
+  "pricedGme": 2674.11,
+  "totalGme": 2674.11
  }
 }
