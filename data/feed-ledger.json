@@ -9,7 +9,9 @@
   "amount": "3971.309637",
   "usd": 11.6,
   "paid": "32541",
-  "refunded": false
+  "refunded": false,
+  "payTx": "0x52df7bba8b945c4eb6f9d816203aea1fdcfd2e41140925e4143d0bd1f2cdd102",
+  "pending": false
  },
  {
   "n": 2,
@@ -35,6 +37,8 @@
   "amount": "2552.371363",
   "usd": 10.77,
   "paid": "33666",
-  "refunded": false
+  "refunded": false,
+  "payTx": "0x9a33dcade7ba32a0e3159fabb406826388e7258e20c84d31694a0a4a605ccd32",
+  "pending": false
  }
 ]
