@@ -1,13 +1,13 @@
 {
- "presses": 48,
- "snacks": 264,
- "checkedAt": "2026-09-07T12:00:54.655Z",
+ "presses": 49,
+ "snacks": 265,
+ "checkedAt": "2026-09-07T12:15:30.375Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 61,
-  "tokenUsd": 19.311796099980082,
+  "premiumBps": 57,
+  "tokenUsd": 19.303608129105125,
   "fairUsd": 19.195,
-  "note": "token $19.31 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.61%"
+  "note": "token $19.30 (6 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.57%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 33,
-   "gme": 50.535299999999985,
-   "burned": 1518984
+   "snacks": 34,
+   "gme": 53.75139999999998,
+   "burned": 1613252
   }
  },
  "holders": 2581,
- "lastRunAt": "2026-09-07T12:00:29.580Z",
+ "lastRunAt": "2026-09-07T12:15:21.953Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,18 +52,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "4.2888",
+ "escrowOwed": "12.7838",
  "claimFloor": 3,
- "gasEth": "0.0266",
+ "gasEth": "0.0264",
  "gasLow": false,
- "queuedGme": "12.945164168764484848",
- "sliceGme": "3.24",
+ "queuedGme": "19.296748106734008594",
+ "sliceGme": "4.82",
  "slicesLeft": 4,
- "burnedPct": "19.85",
- "stashGme": "2640.85",
- "gmeSunk": "5632.62",
- "status": "snacking. 4 slices of ~3 gme to go",
- "updatedAt": "2026-09-07T12:00:54.655Z",
+ "burnedPct": "19.86",
+ "stashGme": "2644.07",
+ "gmeSunk": "5639.05",
+ "status": "snacking. 4 slices of ~5 gme to go",
+ "updatedAt": "2026-09-07T12:15:30.375Z",
  "seats": 208,
  "gmeRank": {
   "rank": 8,
@@ -71,10 +71,10 @@
   "at": "2026-09-07T12:00:42.239Z"
  },
  "basis": {
-  "stashCostUsd": 50360.33,
+  "stashCostUsd": 50422.06,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57120.89,
-  "pricedGme": 2640.85,
-  "totalGme": 2640.85
+  "fedCostUsd": 57182.62,
+  "pricedGme": 2644.07,
+  "totalGme": 2644.07
  }
 }
