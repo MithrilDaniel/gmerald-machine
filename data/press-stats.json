@@ -1,13 +1,13 @@
 {
- "presses": 51,
- "snacks": 272,
- "checkedAt": "2026-09-07T14:15:35.930Z",
+ "presses": 52,
+ "snacks": 273,
+ "checkedAt": "2026-09-07T14:45:35.983Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 37,
-  "tokenUsd": 19.26658156290408,
+  "premiumBps": 34,
+  "tokenUsd": 19.26050698352714,
   "fairUsd": 19.195,
-  "note": "token $19.27 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.37%"
+  "note": "token $19.26 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.34%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -37,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 41,
-   "gme": 67.60929999999999,
-   "burned": 2056224
+   "snacks": 42,
+   "gme": 68.58349999999999,
+   "burned": 2091943
   }
  },
- "holders": 2570,
- "lastRunAt": "2026-09-07T14:15:20.714Z",
+ "holders": 2572,
+ "lastRunAt": "2026-09-07T14:45:24.228Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -52,29 +52,29 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "2.3264",
+ "escrowOwed": "3.8968",
  "claimFloor": 3,
- "gasEth": "0.0256",
+ "gasEth": "0.0255",
  "gasLow": false,
- "queuedGme": "0.000000000000000001",
- "sliceGme": "0.00",
- "slicesLeft": 0,
+ "queuedGme": "1.948408795644824083",
+ "sliceGme": "0.49",
+ "slicesLeft": 4,
  "burnedPct": "19.91",
- "stashGme": "2657.92",
- "gmeSunk": "5666.76",
- "status": "napping between claims",
- "updatedAt": "2026-09-07T14:15:35.930Z",
- "seats": 201,
+ "stashGme": "2658.90",
+ "gmeSunk": "5668.71",
+ "status": "snacking. 4 slices of ~0 gme to go",
+ "updatedAt": "2026-09-07T14:45:35.983Z",
+ "seats": 203,
  "gmeRank": {
   "rank": 8,
   "of": 30,
   "at": "2026-09-07T14:00:34.964Z"
  },
  "basis": {
-  "stashCostUsd": 50688.06,
+  "stashCostUsd": 50706.76,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57448.63,
-  "pricedGme": 2657.92,
-  "totalGme": 2657.92
+  "fedCostUsd": 57467.33,
+  "pricedGme": 2658.9,
+  "totalGme": 2658.9
  }
 }
