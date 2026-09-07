@@ -1,18 +1,13 @@
 {
- "presses": 59,
- "burnedPct": "19.98",
- "stashGme": "2674.79",
- "gmeSunk": "5700.50",
- "status": "napping between claims",
- "updatedAt": "2026-09-07T21:45:41.393Z",
- "snacks": 295,
- "checkedAt": "2026-09-07T21:45:41.393Z",
+ "presses": 60,
+ "snacks": 296,
+ "checkedAt": "2026-09-07T22:21:01.476Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 21,
-  "tokenUsd": 19.23562870962719,
+  "premiumBps": 18,
+  "tokenUsd": 19.229484575110906,
   "fairUsd": 19.195,
-  "note": "token $19.24 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.21%"
+  "note": "token $19.23 (5 pools, weighted by the hour's volume) vs fair $19.20 (chainlink 19:11 utc): +0.18%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -42,13 +37,13 @@
    "burned": 6413039
   },
   "2026-09-07": {
-   "snacks": 64,
-   "gme": 84.47619999999996,
-   "burned": 2766436
+   "snacks": 65,
+   "gme": 85.67579999999997,
+   "burned": 2815748
   }
  },
  "holders": 2556,
- "lastRunAt": "2026-09-07T22:00:26.667Z",
+ "lastRunAt": "2026-09-07T22:20:54.704Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -57,13 +52,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "1.0659",
+ "escrowOwed": "4.7982",
  "claimFloor": 3,
- "gasEth": "0.0226",
+ "gasEth": "0.0225",
  "gasLow": false,
- "queuedGme": "0.000000000000000001",
- "sliceGme": "0.00",
- "slicesLeft": 0,
+ "queuedGme": "2.39910626175193254",
+ "sliceGme": "0.60",
+ "slicesLeft": 4,
+ "burnedPct": "19.98",
+ "stashGme": "2675.99",
+ "gmeSunk": "5702.90",
+ "status": "snacking. 4 slices of ~1 gme to go",
+ "updatedAt": "2026-09-07T22:21:01.476Z",
  "seats": 203,
  "gmeRank": {
   "rank": 8,
@@ -71,10 +71,10 @@
   "at": "2026-09-07T22:00:36.982Z"
  },
  "basis": {
-  "stashCostUsd": 51011.82,
+  "stashCostUsd": 51034.85,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 57772.39,
-  "pricedGme": 2674.79,
-  "totalGme": 2674.79
+  "fedCostUsd": 57795.41,
+  "pricedGme": 2675.99,
+  "totalGme": 2675.99
  }
 }
