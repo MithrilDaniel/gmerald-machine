@@ -1,13 +1,13 @@
 {
- "presses": 71,
- "snacks": 325,
- "checkedAt": "2026-09-08T14:00:53.589Z",
+ "presses": 72,
+ "snacks": 326,
+ "checkedAt": "2026-09-08T14:15:38.669Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 11,
-  "tokenUsd": 19.256667773317474,
-  "fairUsd": 19.235,
-  "note": "token $19.26 (3 pools, weighted by the hour's volume) vs fair $19.23 (chainlink 13:58 utc): +0.11%"
+  "premiumBps": 24,
+  "tokenUsd": 19.163173454624527,
+  "fairUsd": 19.1168,
+  "note": "token $19.16 (4 pools, weighted by the hour's volume) vs fair $19.12 (chainlink 14:15 utc): +0.24%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -42,13 +42,13 @@
    "burned": 2865931
   },
   "2026-09-08": {
-   "snacks": 27,
-   "gme": 27.3639,
-   "burned": 1436991
+   "snacks": 28,
+   "gme": 28.851300000000002,
+   "burned": 1532521
   }
  },
  "holders": 2533,
- "lastRunAt": "2026-09-08T14:00:27.784Z",
+ "lastRunAt": "2026-09-08T14:15:22.991Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -57,18 +57,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "0.2445",
+ "escrowOwed": "5.3875",
  "claimFloor": 3,
  "gasEth": "0.0192",
  "gasLow": false,
- "queuedGme": "0.562343088564578938",
- "sliceGme": "0.19",
- "slicesLeft": 3,
- "burnedPct": "20.13",
- "stashGme": "2704.55",
- "gmeSunk": "5760.02",
- "status": "snacking. 3 slices of ~0 gme to go",
- "updatedAt": "2026-09-08T14:00:53.589Z",
+ "queuedGme": "2.974896732896876256",
+ "sliceGme": "0.74",
+ "slicesLeft": 4,
+ "burnedPct": "20.14",
+ "stashGme": "2706.04",
+ "gmeSunk": "5763.00",
+ "status": "snacking. 4 slices of ~1 gme to go",
+ "updatedAt": "2026-09-08T14:15:38.669Z",
  "seats": 204,
  "gmeRank": {
   "rank": 8,
@@ -76,10 +76,10 @@
   "at": "2026-09-08T14:00:44.521Z"
  },
  "basis": {
-  "stashCostUsd": 51584.41,
+  "stashCostUsd": 51612.85,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 58344.98,
-  "pricedGme": 2704.55,
-  "totalGme": 2704.55
+  "fedCostUsd": 58373.41,
+  "pricedGme": 2706.04,
+  "totalGme": 2706.04
  }
 }
