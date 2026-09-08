@@ -6696,6 +6696,40 @@
    "gmeUsd": 18.925,
    "claimedGme": "3.3113",
    "k": 82
+  },
+  {
+   "n": 426,
+   "ts": "2026-09-08T20:01:45.113Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed · double: price 17.4% under its recent high · the run stopped after 1 of its legs at 2026-09-08 19:45 utc; recorded on the next tick",
+   "burnedGmerald": "0",
+   "burnGmeSpent": "1.757360455258557476",
+   "stashedGme": "1.757360455258557476",
+   "opsMovedGme": "0",
+   "pegStatus": "below (-0.03%)",
+   "stashTx": "0x6d4c82629b4fba5cd29325729467b6daa1c619a6b1e52b0417c76503c18c80da",
+   "serviceGme": "0",
+   "gmeUsd": 18.925,
+   "k": 344
+  },
+  {
+   "n": 427,
+   "ts": "2026-09-08T20:01:51.654Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed",
+   "burnedGmerald": "16885",
+   "burnGmeSpent": "0.3653",
+   "stashedGme": "0.3653",
+   "opsMovedGme": "0.0000",
+   "pegStatus": "below (-0.18%)",
+   "burnTx": "0x848e2248839aa09ff3c9dd4cfeff86b4ae9530960ab3a134672a58166de2fdce",
+   "stashTx": "0x46539cedac0f2f5d8fe82d5a7e3ddd6c58c55a2865bb455a981eefbb9b34e8bc",
+   "serviceGme": "0.0000",
+   "boardGme": "0.7307",
+   "gmeUsd": 18.925,
+   "k": 345
   }
  ]
 }
