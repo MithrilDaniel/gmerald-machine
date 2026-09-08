@@ -29,10 +29,11 @@
   "treasury": "0x259c3Fc3Dad6B8e418b44c238C7Be65284244e4A"
  },
  "split": {
-  "burnBps": 5000,
-  "treasuryBps": 5000,
+  "burnBps": 2500,
+  "treasuryBps": 2500,
   "opsBps": 0,
-  "serviceBps": 0
+  "serviceBps": 0,
+  "boardBps": 5000
  },
  "schedule": {
   "cadenceMin": 15,
@@ -130,5 +131,11 @@
   "walletCapTokens": 300000,
   "minUsd": 10,
   "sanityPct": 15
+ },
+ "board": {
+  "exclude": [
+   "0x2B9747117491AF58c68d6f7982A56E977a510445",
+   "0x6Cd4ca590847b6febB98Dc33B6e6e86d26Da506D"
+  ]
  }
 }

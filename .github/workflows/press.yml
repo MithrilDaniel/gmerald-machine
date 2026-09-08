@@ -4,7 +4,7 @@ on:
     - cron: "0,15,30,45 * * * *"   # the clock, until cron-job.org points here; github may run it a few minutes late
   workflow_dispatch:
     inputs:
-      job: { description: "press | dry | doctor | claimcheck | holders | tgcheck", default: press, type: choice, options: [press, dry, doctor, claimcheck, holders, tgcheck] }
+      job: { description: "press | dry | doctor | claimcheck | holders | tgcheck | board | boardcheck", default: press, type: choice, options: [press, dry, doctor, claimcheck, holders, tgcheck, board, boardcheck] }
 permissions: { contents: write }
 concurrency: { group: clockwork, cancel-in-progress: false }
 jobs:
@@ -31,7 +31,7 @@ jobs:
             if [ "$age" -lt 600 ]; then echo "another tick committed its numbers ${age}s ago; leaving"; echo "skip=1" >> "$GITHUB_OUTPUT"; fi
           fi
       - if: steps.guard.outputs.skip != '1'
-        run: npx --yes clockwork-press@0.2.2 ${{ inputs.job || 'press' }}
+        run: npx --yes clockwork-press@0.4.0 ${{ inputs.job || 'press' }}
         env:
           npm_config_ignore_scripts: "true"   # no package lifecycle scripts run on install; only the clockwork bin runs
           MACHINE_WALLET_KEY: ${{ secrets.MACHINE_WALLET_KEY }}
@@ -40,7 +40,7 @@ jobs:
       # repository variable FEED_LIVE is set to 1, which is a switch in settings, not a code change.
       - if: steps.guard.outputs.skip != '1'
         continue-on-error: true
-        run: npx --yes clockwork-press@0.3.0 feed
+        run: npx --yes clockwork-press@0.4.0 feed
         env:
           npm_config_ignore_scripts: "true"
           FEEDER_WALLET_KEY: ${{ secrets.FEEDER_WALLET_KEY }}
