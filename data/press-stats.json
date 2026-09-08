@@ -1,13 +1,13 @@
 {
- "presses": 72,
- "snacks": 327,
- "checkedAt": "2026-09-08T14:30:38.025Z",
+ "presses": 73,
+ "snacks": 328,
+ "checkedAt": "2026-09-08T14:45:42.422Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 43,
-  "tokenUsd": 18.878465047727452,
+  "premiumBps": 28,
+  "tokenUsd": 18.8499956542705,
   "fairUsd": 18.7967,
-  "note": "token $18.88 (4 pools, weighted by the hour's volume) vs fair $18.80 (chainlink 14:29 utc): +0.43%"
+  "note": "token $18.85 (3 pools, weighted by the hour's volume) vs fair $18.80 (chainlink 14:29 utc): +0.28%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -42,13 +42,13 @@
    "burned": 2865931
   },
   "2026-09-08": {
-   "snacks": 29,
-   "gme": 29.8429,
-   "burned": 1595478
+   "snacks": 30,
+   "gme": 32.6286,
+   "burned": 1793317
   }
  },
  "holders": 2533,
- "lastRunAt": "2026-09-08T14:30:31.127Z",
+ "lastRunAt": "2026-09-08T14:45:32.431Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -57,18 +57,18 @@
  },
  "pendingRecipient": null,
  "unswept": "0",
- "escrowOwed": "0.6987",
+ "escrowOwed": "10.1511",
  "claimFloor": 3,
- "gasEth": "0.0191",
+ "gasEth": "0.0190",
  "gasLow": false,
- "queuedGme": "0.991632244298958752",
- "sliceGme": "0.33",
- "slicesLeft": 3,
- "burnedPct": "20.15",
- "stashGme": "2707.03",
- "gmeSunk": "5764.98",
- "status": "snacking. 3 slices of ~0 gme to go",
- "updatedAt": "2026-09-08T14:30:38.025Z",
+ "queuedGme": "5.571357941804605289",
+ "sliceGme": "1.39",
+ "slicesLeft": 4,
+ "burnedPct": "20.17",
+ "stashGme": "2709.82",
+ "gmeSunk": "5770.55",
+ "status": "snacking. 4 slices of ~1 gme to go",
+ "updatedAt": "2026-09-08T14:45:42.422Z",
  "seats": 204,
  "gmeRank": {
   "rank": 8,
@@ -76,10 +76,10 @@
   "at": "2026-09-08T14:00:44.521Z"
  },
  "basis": {
-  "stashCostUsd": 51631.49,
+  "stashCostUsd": 51683.85,
   "stashAvgUsd": 19.07,
-  "fedCostUsd": 58392.05,
-  "pricedGme": 2707.03,
-  "totalGme": 2707.03
+  "fedCostUsd": 58444.41,
+  "pricedGme": 2709.82,
+  "totalGme": 2709.82
  }
 }
