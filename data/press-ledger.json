@@ -1,23 +1,6 @@
 {
  "presses": [
   {
-   "n": 310,
-   "ts": "2026-09-07T11:45:45.941Z",
-   "explorer": "https://robinhoodchain.blockscout.com",
-   "kind": "snack",
-   "note": "pressed · half: a fresh high, up 52.9% in the hour",
-   "burnedGmerald": "15855",
-   "burnGmeSpent": "0.7504",
-   "stashedGme": "0.7504",
-   "opsMovedGme": "0.0000",
-   "pegStatus": "at-or-above (+0.65%)",
-   "burnTx": "0x154e6b37f0e5c3a733191b852be481e54f00bbc3d55838cf35f9251d9c6e80ba",
-   "stashTx": "0x9e2159ccb4c684a94d73005a2bc287e3c6910191dd98d82b9bd00cdbdafcec1b",
-   "serviceGme": "0.0000",
-   "gmeUsd": 19.195,
-   "k": 263
-  },
-  {
    "n": 312,
    "ts": "2026-09-07T12:00:54.655Z",
    "explorer": "https://robinhoodchain.blockscout.com",
@@ -220,22 +203,6 @@
    "serviceGme": "0.0000",
    "gmeUsd": 19.195,
    "k": 275
-  },
-  {
-   "n": 328,
-   "ts": "2026-09-07T15:30:34.976Z",
-   "explorer": "https://robinhoodchain.blockscout.com",
-   "kind": "press",
-   "note": "press: 3.07 gme claimed from the fee escrow.",
-   "burnedGmerald": "0",
-   "burnGmeSpent": "0",
-   "stashedGme": "0",
-   "opsMovedGme": "0",
-   "pegStatus": "n/a",
-   "stashTx": "0x9141cfcb38c2b28437dc9ac58c29f53deb252dbee961584e10bb5c6fc9ef409a",
-   "gmeUsd": 19.195,
-   "claimedGme": "3.0680",
-   "k": 53
   },
   {
    "n": 329,
@@ -1007,15 +974,48 @@
    "serviceGme": "0.0000",
    "gmeUsd": 19.24,
    "k": 310
+  },
+  {
+   "n": 375,
+   "ts": "2026-09-08T07:30:26.634Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "press",
+   "note": "press: 3.10 gme claimed from the fee escrow.",
+   "burnedGmerald": "0",
+   "burnGmeSpent": "0",
+   "stashedGme": "0",
+   "opsMovedGme": "0",
+   "pegStatus": "n/a",
+   "stashTx": "0x99037eb3912c594f380d97ff3c455dd7e53867c1b0115ec4bf7edea0a4b2b4a0",
+   "gmeUsd": 19.24,
+   "claimedGme": "3.1043",
+   "k": 65
+  },
+  {
+   "n": 376,
+   "ts": "2026-09-08T07:30:31.245Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed · double: price 30.0% under its recent high",
+   "burnedGmerald": "37252",
+   "burnGmeSpent": "0.7761",
+   "stashedGme": "0.7761",
+   "opsMovedGme": "0.0000",
+   "pegStatus": "below (-0.20%)",
+   "burnTx": "0x902dafc98d69099a65be52fbabea7e0b1e35c1506a8182e6ae0d85ed5b63e8c9",
+   "stashTx": "0x01e3e9de47002af348c3b83602239bafe415a2d3368ca05bc56f736aef1bbbdc",
+   "serviceGme": "0.0000",
+   "gmeUsd": 19.24,
+   "k": 311
   }
  ],
- "stashScanBlock": "57504209",
+ "stashScanBlock": "57513149",
  "totals": {
-  "press": 64,
-  "snack": 310,
-  "burnGme": 3037.7735999999973,
-  "stashedGme": 2686.8594999999987,
-  "burnedGmerald": 199551307
+  "press": 65,
+  "snack": 311,
+  "burnGme": 3038.5496999999973,
+  "stashedGme": 2687.6355999999987,
+  "burnedGmerald": 199588559
  },
  "meta": {}
 }
