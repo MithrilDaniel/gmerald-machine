@@ -1,25 +1,52 @@
 {
- "updatedAt": "2026-09-08T16:30:34.901Z",
+ "updatedAt": "2026-09-08T16:45:39.713Z",
  "open": true,
  "feeder": "0x2B9747117491AF58c68d6f7982A56E977a510445",
  "tranche": 15000000,
- "left": 14456577,
+ "left": 14360098,
  "dailyCap": 3000000,
- "leftToday": 2465712,
+ "leftToday": 1856034,
  "rates": {
   "GMEME": 1.4,
   "GME": 1.2
  },
  "totals": {
-  "GMEME": 77975.098168,
+  "GMEME": 162266.541454,
   "GME": 0.644652,
-  "people": 6
+  "people": 8
  },
  "pile": {
   "wallet": "0x6Cd4ca590847b6febB98Dc33B6e6e86d26Da506D",
   "earned": {}
  },
  "rows": [
+  {
+   "from": "0xE1B506338cc67f4d63E3747992981a02be3d5DdD",
+   "symbol": "GMEME",
+   "amount": 27948.336383,
+   "paid": 202150,
+   "tx": "0x8b91309715c009e58c6b8bc1927de5c62033193ae50c5d8405f1d2d0e548cf59",
+   "ts": "2026-09-08T16:45:37.439Z",
+   "pending": false
+  },
+  {
+   "from": "0xde11f49541CF6935e0F5C0A9D7b4ad74A3a93D97",
+   "symbol": "GMEME",
+   "amount": 20585.632019,
+   "paid": 148895,
+   "tx": "0x8364056693a02257d348f2d8b9538b94f35f9227e5faf4c2f345364de39d51a1",
+   "ts": "2026-09-08T16:45:35.342Z",
+   "pending": false
+  },
+  {
+   "from": "0x31961a211AE250431B2547b310D0f96c909B6a77",
+   "symbol": "GMEME",
+   "amount": 35757.474884,
+   "paid": 258633,
+   "tx": "0x4cead43a7797e0415064900f8a5d92394fa681a668e4cbd2c011cee380013c49",
+   "ts": "2026-09-08T16:45:28.374Z",
+   "pending": false
+  },
   {
    "from": "0xde11f49541CF6935e0F5C0A9D7b4ad74A3a93D97",
    "symbol": "GMEME",
