@@ -40,7 +40,7 @@ jobs:
       # repository variable FEED_LIVE is set to 1, which is a switch in settings, not a code change.
       - if: steps.guard.outputs.skip != '1'
         continue-on-error: true
-        run: npx --yes clockwork-press@0.2.8 feed
+        run: npx --yes clockwork-press@0.2.9 feed
         env:
           npm_config_ignore_scripts: "true"
           FEEDER_WALLET_KEY: ${{ secrets.FEEDER_WALLET_KEY }}
