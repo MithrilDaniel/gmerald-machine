@@ -1,25 +1,160 @@
 {
- "updatedAt": "2026-09-08T16:45:39.713Z",
+ "updatedAt": "2026-09-08T17:01:56.190Z",
  "open": true,
  "feeder": "0x2B9747117491AF58c68d6f7982A56E977a510445",
  "tranche": 15000000,
- "left": 14360098,
+ "left": 13750420,
  "dailyCap": 3000000,
- "leftToday": 1856034,
+ "leftToday": 201657,
  "rates": {
   "GMEME": 1.4,
   "GME": 1.2
  },
  "totals": {
-  "GMEME": 162266.541454,
+  "GMEME": 394753.4058129998,
   "GME": 0.644652,
-  "people": 8
+  "people": 23
  },
  "pile": {
   "wallet": "0x6Cd4ca590847b6febB98Dc33B6e6e86d26Da506D",
   "earned": {}
  },
  "rows": [
+  {
+   "from": "0x88b5a2Ac4A02b73414156c56d6152Dc30aA4eeF5",
+   "symbol": "GMEME",
+   "amount": 36903.158123,
+   "paid": 262603,
+   "tx": "0x1a4ffb1c2a0a0c6e30f2b110240698a09dcea51cc35a76344b552c67a22d1e24",
+   "ts": "2026-09-08T17:01:48.477Z",
+   "pending": false
+  },
+  {
+   "from": "0x8480A1EF27E22484E3D45a84199dc2Bb429aa7af",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x24d37f377e48071acf7fa4957c0a696bdf2d87afd709800d71330e13603859e6",
+   "ts": "2026-09-08T17:01:45.403Z",
+   "pending": false
+  },
+  {
+   "from": "0xA4e2c58b1D35Aff3227598d1E697fD7472C15b49",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x2c6d9ffabe0727263c76f8df48dfd4a6c77dfbdf52bd38e9b7644bb1f41c7efc",
+   "ts": "2026-09-08T17:01:42.999Z",
+   "pending": false
+  },
+  {
+   "from": "0x24FD1e31e612135341f73c58B7366D222CCCaeD2",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x8d8e4e43e739d4f62987847291911ba0a44f43728d436cf990eeab46595f398e",
+   "ts": "2026-09-08T17:01:37.339Z",
+   "pending": false
+  },
+  {
+   "from": "0xc8dDbBc01D522004163F2388C75f4197e32f2f03",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0xf64ba5ed0573afe69b4c0f16a758b46021def33e357dbb63ca0025097b22c2b0",
+   "ts": "2026-09-08T17:01:33.307Z",
+   "pending": false
+  },
+  {
+   "from": "0x1Fd7Efa0922B5aeBC6b87ebD528026eeA07146fF",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0xe8a57bb9a28db6a7d07d1f7416ed63c31dfe0a3b770bcee5d82221be42c622e5",
+   "ts": "2026-09-08T17:01:29.227Z",
+   "pending": false
+  },
+  {
+   "from": "0xEF08cD729D2DFB6d4593866b651cF0C2D0DA547b",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0xf9bac3515edad531cef19f025517b17705ee238a0e9fa1862e3b0156b22e6e9c",
+   "ts": "2026-09-08T17:01:25.242Z",
+   "pending": false
+  },
+  {
+   "from": "0x4e091eC42C548D15CC9D046EAA9B97E016B2A4Ee",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x8c94e5ee5ec95f95fef11b9fe4d2cf5c500cc0d8829db887169c911a54e40d97",
+   "ts": "2026-09-08T17:01:21.151Z",
+   "pending": false
+  },
+  {
+   "from": "0xcb75155d0c0C89767bFe5a69c45C3db8DC14914d",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x670d99a1927208cdb71afe8bb0e1f1f3829ff087bead29e633b0e3423ab7d331",
+   "ts": "2026-09-08T17:01:17.107Z",
+   "pending": false
+  },
+  {
+   "from": "0x037c6FB3d5F7a93769BdFB6ED04caCC0808e3711",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x48a3b1488767eea7e19a601a3b5aa3ccd4e5ad19deb066e8e520efffd5a8eead",
+   "ts": "2026-09-08T17:01:13.072Z",
+   "pending": false
+  },
+  {
+   "from": "0x4DcCF21662D891D36feF59bc802b37042aA16b37",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x6cc24e2560cc02ba90b64400611e282992454a502aa1cc8fcff19e83e7604adf",
+   "ts": "2026-09-08T17:01:09.848Z",
+   "pending": false
+  },
+  {
+   "from": "0x02b0337fe6F5265759Ea7eF8E01B3397D9984e24",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0x87005409e65cac31e5e7784719e883dac2986b32e9dd9a932fbf914d54f891df",
+   "ts": "2026-09-08T17:01:07.413Z",
+   "pending": false
+  },
+  {
+   "from": "0xdC3540AE7e95a62a8423898ee0bC54F5d1c0Fe43",
+   "symbol": "GMEME",
+   "amount": 9856.198222,
+   "paid": 70137,
+   "tx": "0xcf5c2456a31d5258b0a1f64bac4f0f3677030c73165ca3d0c8b3dfeb9f9282dc",
+   "ts": "2026-09-08T17:01:04.273Z",
+   "pending": false
+  },
+  {
+   "from": "0x8AB3C1EEf73cE1900358AE2ceD4bD0322fF84927",
+   "symbol": "GMEME",
+   "amount": 38421.327572,
+   "paid": 273406,
+   "tx": "0x369ebc5852c261dcb977c2f7165f99fa8f8694750acdd55a2765e0609a5c16be",
+   "ts": "2026-09-08T17:01:01.002Z",
+   "pending": false
+  },
+  {
+   "from": "0xa8DCac8d1d806EF79f402bc383806B079189e6b8",
+   "symbol": "GMEME",
+   "amount": 38888,
+   "paid": 276727,
+   "tx": "0x36310b8d7bfc554461732000487e8f18494c7d16884d00bb38355c97818e650e",
+   "ts": "2026-09-08T17:00:57.725Z",
+   "pending": false
+  },
   {
    "from": "0xE1B506338cc67f4d63E3747992981a02be3d5DdD",
    "symbol": "GMEME",
