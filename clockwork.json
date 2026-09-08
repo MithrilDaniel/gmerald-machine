@@ -113,14 +113,16 @@
     "symbol": "GMEME",
     "decimals": 18,
     "multiplierBps": 14000,
-    "route": "partnership"
+    "route": "partnership",
+    "name": "Greatest Meme Ever"
    },
    {
     "token": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
     "symbol": "GME",
     "decimals": 18,
     "multiplierBps": 12000,
-    "route": "treasury"
+    "route": "treasury",
+    "name": "tokenized GameStop stock"
    }
   ],
   "tranche": 15000000,
