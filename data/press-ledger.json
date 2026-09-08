@@ -1,23 +1,6 @@
 {
  "presses": [
   {
-   "n": 329,
-   "ts": "2026-09-07T15:30:41.803Z",
-   "explorer": "https://robinhoodchain.blockscout.com",
-   "kind": "snack",
-   "note": "pressed · double: price 17.4% under its recent high",
-   "burnedGmerald": "29305",
-   "burnGmeSpent": "0.7670",
-   "stashedGme": "0.7670",
-   "opsMovedGme": "0.0000",
-   "pegStatus": "at-or-above (+0.23%)",
-   "burnTx": "0xabd346c1d1924fef738878ce4ad86be8ea2519aea4470abf28de8e8506163a97",
-   "stashTx": "0x0eac28e61e9b068f869e0952c55043469e169e60e9e10da271485de00fe3dd49",
-   "serviceGme": "0.0000",
-   "gmeUsd": 19.195,
-   "k": 276
-  },
-  {
    "n": 330,
    "ts": "2026-09-07T15:45:44.782Z",
    "explorer": "https://robinhoodchain.blockscout.com",
@@ -288,22 +271,6 @@
    "serviceGme": "0.0000",
    "gmeUsd": 19.195,
    "k": 292
-  },
-  {
-   "n": 351,
-   "ts": "2026-09-07T21:15:22.710Z",
-   "explorer": "https://robinhoodchain.blockscout.com",
-   "kind": "press",
-   "note": "press: 4.10 gme claimed from the fee escrow.",
-   "burnedGmerald": "0",
-   "burnGmeSpent": "0",
-   "stashedGme": "0",
-   "opsMovedGme": "0",
-   "pegStatus": "n/a",
-   "stashTx": "0x446662d32ed9d5faa3a089b1972d86074619d1ddbcae1667f4dee2920a831ed1",
-   "gmeUsd": 19.195,
-   "claimedGme": "4.0972",
-   "k": 59
   },
   {
    "n": 352,
@@ -1007,15 +974,48 @@
    "serviceGme": "0.0000",
    "gmeUsd": 19.24,
    "k": 323
+  },
+  {
+   "n": 394,
+   "ts": "2026-09-08T13:45:48.681Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "press",
+   "note": "press: 3.37 gme claimed from the fee escrow.",
+   "burnedGmerald": "0",
+   "burnGmeSpent": "0",
+   "stashedGme": "0",
+   "opsMovedGme": "0",
+   "pegStatus": "n/a",
+   "stashTx": "0x387e8f5e34f1cbae07ddea155b60b6a4ee5cba68f96c311680e1ec041639e481",
+   "gmeUsd": 19.37065,
+   "claimedGme": "3.3741",
+   "k": 71
+  },
+  {
+   "n": 395,
+   "ts": "2026-09-08T13:45:52.825Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed · double: price 34.1% under its recent high",
+   "burnedGmerald": "47315",
+   "burnGmeSpent": "0.8435",
+   "stashedGme": "0.8435",
+   "opsMovedGme": "0.0000",
+   "pegStatus": "below (-0.27%)",
+   "burnTx": "0xccc7ffad3584481ac156e473839fb977732929da09e889bcd496e2a45ee2bd70",
+   "stashTx": "0x48079db515a7fe13308eaa50e02f8024a80837a3d4ec5a2db0f17d70be9bb810",
+   "serviceGme": "0.0000",
+   "gmeUsd": 19.37065,
+   "k": 324
   }
  ],
- "stashScanBlock": "57727265",
+ "stashScanBlock": "57736318",
  "totals": {
-  "press": 70,
-  "snack": 323,
-  "burnGme": 3054.0630999999976,
-  "stashedGme": 2703.148999999999,
-  "burnedGmerald": 200502763
+  "press": 71,
+  "snack": 324,
+  "burnGme": 3054.9065999999975,
+  "stashedGme": 2703.992499999999,
+  "burnedGmerald": 200550078
  },
  "meta": {}
 }
