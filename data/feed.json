@@ -1,20 +1,39 @@
 {
- "updatedAt": "2026-09-08T16:01:10.584Z",
+ "updatedAt": "2026-09-08T16:15:47.735Z",
  "open": true,
  "feeder": "0x2B9747117491AF58c68d6f7982A56E977a510445",
  "tranche": 15000000,
  "left": 14765907,
  "dailyCap": 3000000,
- "leftToday": 2871521,
+ "leftToday": 2562191,
  "rates": {
   "GMEME": 1.4,
   "GME": 1.2
  },
  "totals": {
-  "GMEME": 28729.143175999998,
-  "people": 4
+  "GMEME": 64861.086133,
+  "GME": 0.644652,
+  "people": 6
  },
  "rows": [
+  {
+   "from": "0xde11f49541CF6935e0F5C0A9D7b4ad74A3a93D97",
+   "symbol": "GME",
+   "amount": 0.644652,
+   "paid": 39816,
+   "tx": "0xc83f1e57b0e1d017c45523913a2d4bdc9c6d59732b949f4f046777003da3b74f",
+   "ts": "2026-09-08T16:15:44.158Z",
+   "pending": false
+  },
+  {
+   "from": "0xA020f8610aE8a9c627A6554AE159693e8Fd4Cda6",
+   "symbol": "GMEME",
+   "amount": 36131.942957,
+   "paid": 269514,
+   "tx": "0x4bf3835a27f88b36bcd458cf4d9e45131f32ec614e907a24c2344f1f2a1d82bd",
+   "ts": "2026-09-08T16:15:40.432Z",
+   "pending": false
+  },
   {
    "from": "0xeE71e900C3d48b03213b557CB66794F4E1c1Ea4B",
    "symbol": "GMEME",
