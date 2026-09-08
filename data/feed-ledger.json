@@ -55,5 +55,20 @@
   "note": "over this wallet's daily cap",
   "refunded": true,
   "routeTx": "0x6f9639d647cb9b86e1a962db009a2bf337bc98d1561506230ef6adb97372ef82"
+ },
+ {
+  "n": 5,
+  "ts": "2026-09-08T15:15:46.351Z",
+  "tx": "0x45e46a21d5085bedc281d5aeb360a269d53939ac1d2ed9461f151045dd8c107c",
+  "logIndex": 141,
+  "block": 57785486,
+  "from": "0x8888b57f8eFA75468256Cf0Fa46195AaDdd28888",
+  "symbol": "GMEME",
+  "amount": "430867.820567",
+  "usd": 751.65,
+  "paid": "0",
+  "note": "the day's allowance is gone",
+  "refunded": true,
+  "routeTx": "0x6d7bcd60a93179125fb52512b0692e00a4ad21829efb332a64bea8d27128b986"
  }
 ]
