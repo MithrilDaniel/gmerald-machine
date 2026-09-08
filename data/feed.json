@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-07T23:44:21.698Z",
+ "updatedAt": "2026-09-08T00:05:50.513Z",
  "open": true,
  "feeder": "0x2B9747117491AF58c68d6f7982A56E977a510445",
  "tranche": 15000000,
  "left": 14894386,
  "dailyCap": 3000000,
- "leftToday": 2960593,
+ "leftToday": 3000000,
  "rates": {
   "GMEME": 1.4,
   "GME": 1.2
