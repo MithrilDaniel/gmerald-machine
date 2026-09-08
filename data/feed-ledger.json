@@ -445,5 +445,24 @@
   "refunded": false,
   "payTx": "0x1a4ffb1c2a0a0c6e30f2b110240698a09dcea51cc35a76344b552c67a22d1e24",
   "routeTx": "0x8213193e7b664eadbf5a8e9175ec954e99098b8210a057f5a5dbbd5174128da8"
+ },
+ {
+  "n": 31,
+  "ts": "2026-09-08T17:15:42.441Z",
+  "tx": "0x272ff7146ec1c8755c5ef95c509f4a7c004fe9e039aac0b9e881314cdcf27514",
+  "logIndex": 36,
+  "block": 57860803,
+  "from": "0x28836518855c3C892f1B4A5B5fce083384fbAa80",
+  "symbol": "GMEME",
+  "amount": "27789.714515",
+  "usd": 50.62,
+  "paid": "201657",
+  "note": "filled to the cap, the rest returned",
+  "refunded": false,
+  "kept": "25826.915140",
+  "returned": "1962.799375",
+  "payTx": "0x812059933196c25fe0ea03276492e429a4f61dc972abc65284645f381cb52647",
+  "routeTx": "0xaff90488145dc9656557452d940826b05a59bbd4d3d84a8be6f6c507c33c2c6a",
+  "backTx": "0xe11de55f2f867d6083df2714350ee8d1b71c4578063e0f023d503f0fbdf0601f"
  }
 ]
