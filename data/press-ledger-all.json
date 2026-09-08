@@ -6448,6 +6448,21 @@
    "serviceGme": "0.0000",
    "gmeUsd": 18.81,
    "k": 334
+  },
+  {
+   "n": 411,
+   "ts": "2026-09-08T16:30:24.379Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "press",
+   "note": "press: 0.64 gme claimed from fees, into the stash. never sold, never distributed.",
+   "burnedGmerald": "0",
+   "burnGmeSpent": "0",
+   "stashedGme": "0.6447",
+   "opsMovedGme": "0",
+   "pegStatus": "n/a",
+   "stashTx": "0x233b7b715aeda44d879bfb3dd6d0b8592521549fbd7eb566c0597bb4a08c5b1a",
+   "gmeUsd": 18.81,
+   "k": 77
   }
  ]
 }
