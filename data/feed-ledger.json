@@ -85,5 +85,35 @@
   "refunded": false,
   "payTx": "0x2b0ad0237830d3f0fab497b7cc2430fe006c45d02327d056f5e0d6d887dd5edb",
   "routeTx": "0x970cd5ee889c525461b6f11a00f5c5af630767d00903923165b549a0788386b2"
+ },
+ {
+  "n": 7,
+  "ts": "2026-09-08T15:45:54.905Z",
+  "tx": "0x5ec51fac91ad244d843786e372438103d55d622fe57a01edf19dbf6dbf9c483e",
+  "logIndex": 47,
+  "block": 57800032,
+  "from": "0x3Bc6Ad17D0b658f917808a4F7AF258EBe6E978f8",
+  "symbol": "GMEME",
+  "amount": "115122.279620",
+  "usd": 198.93,
+  "paid": "0",
+  "note": "over this wallet's daily cap",
+  "refunded": true,
+  "routeTx": "0xe66f79702372aeb90186db49e61412b59f55c5691977c68cf7e9e7a450b3d18d"
+ },
+ {
+  "n": 8,
+  "ts": "2026-09-08T15:45:56.595Z",
+  "tx": "0x998706149bb67e1765b39ff6cf4b80fdda8a920cd6aba227da3b4dc4a2e0b4d8",
+  "logIndex": 73,
+  "block": 57806308,
+  "from": "0xeE71e900C3d48b03213b557CB66794F4E1c1Ea4B",
+  "symbol": "GMEME",
+  "amount": "7594.470100",
+  "usd": 13.12,
+  "paid": "52180",
+  "refunded": false,
+  "payTx": "0x9fa0e1c0e369eae63bc9c68a86863193b17f9f0fbc08bc921866d3143920dc69",
+  "routeTx": "0xedee3e815d4fa9f2f1d6accf37952033a61d1685463670b64325562de9faf40d"
  }
 ]
