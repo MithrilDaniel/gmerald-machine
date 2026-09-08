@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-09-08T18:30:34.943Z",
- "open": true,
+ "updatedAt": "2026-09-08T18:36:03.060Z",
+ "open": false,
  "feeder": "0x2B9747117491AF58c68d6f7982A56E977a510445",
- "tranche": 15000000,
- "left": 11894383,
+ "tranche": 3105617,
+ "left": 0,
  "dailyCap": 3000000,
  "leftToday": 0,
  "rates": {
