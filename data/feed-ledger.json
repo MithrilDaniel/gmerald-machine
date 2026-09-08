@@ -70,5 +70,20 @@
   "note": "the day's allowance is gone",
   "refunded": true,
   "routeTx": "0x6d7bcd60a93179125fb52512b0692e00a4ad21829efb332a64bea8d27128b986"
+ },
+ {
+  "n": 6,
+  "ts": "2026-09-08T15:30:38.572Z",
+  "tx": "0x7473566e8ac8a54b430bd684b6b5de18f940d177567416b4032668bb0ac02355",
+  "logIndex": 0,
+  "block": 57790249,
+  "from": "0x3Bc6Ad17D0b658f917808a4F7AF258EBe6E978f8",
+  "symbol": "GMEME",
+  "amount": "10382.159690",
+  "usd": 17.71,
+  "paid": "76299",
+  "refunded": false,
+  "payTx": "0x2b0ad0237830d3f0fab497b7cc2430fe006c45d02327d056f5e0d6d887dd5edb",
+  "routeTx": "0x970cd5ee889c525461b6f11a00f5c5af630767d00903923165b549a0788386b2"
  }
 ]
