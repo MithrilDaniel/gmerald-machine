@@ -8234,6 +8234,40 @@
    "boardGme": "0.8022",
    "gmeUsd": 19.987,
    "k": 409
+  },
+  {
+   "n": 514,
+   "ts": "2026-09-09T21:45:36.068Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "press",
+   "note": "press: 7.61 gme claimed from the fee escrow.",
+   "burnedGmerald": "0",
+   "burnGmeSpent": "0",
+   "stashedGme": "0",
+   "opsMovedGme": "0",
+   "pegStatus": "n/a",
+   "stashTx": "0xddbb5fc178bc572118761733b3054f3aaa79a3d85983cda611b5fedd0d20d69b",
+   "gmeUsd": 19.987,
+   "claimedGme": "7.6079",
+   "k": 105
+  },
+  {
+   "n": 515,
+   "ts": "2026-09-09T21:45:43.749Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed · double: price 41.7% under its recent high",
+   "burnedGmerald": "63537",
+   "burnGmeSpent": "0.9510",
+   "stashedGme": "0.9510",
+   "opsMovedGme": "0.0000",
+   "pegStatus": "below (-0.14%)",
+   "burnTx": "0x18fa923c60cf2776f45552b5910564ff78fb9c5746a1be41b44b5a9922d2c4f1",
+   "stashTx": "0x5464980c5040f8f4bb242e550ec51aa3268430a2a8e8e4367612542f88d9cfd3",
+   "serviceGme": "0.0000",
+   "boardGme": "1.9020",
+   "gmeUsd": 19.987,
+   "k": 410
   }
  ]
 }
