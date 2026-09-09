@@ -7604,6 +7604,24 @@
    "boardGme": "0.4504",
    "gmeUsd": 18.975,
    "k": 382
+  },
+  {
+   "n": 478,
+   "ts": "2026-09-09T12:15:28.106Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed · half: a fresh high, up 26.2% in the hour",
+   "burnedGmerald": "10491",
+   "burnGmeSpent": "0.2627",
+   "stashedGme": "0.2627",
+   "opsMovedGme": "0.0000",
+   "pegStatus": "at-or-above (+0.26%)",
+   "burnTx": "0xee1668d8437e010a56fde6cdb0fda37977fa598c84200ed8264509621db557a5",
+   "stashTx": "0x2a6cceebfee880ce31f9b473623242423f1b7516d5dc173adab0ae2b80710623",
+   "serviceGme": "0.0000",
+   "boardGme": "0.5254",
+   "gmeUsd": 18.975,
+   "k": 383
   }
  ]
 }
