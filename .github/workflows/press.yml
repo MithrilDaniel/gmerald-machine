@@ -15,8 +15,8 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with: { node-version: 22 }
       # an exact version, never @latest: the machine key is in this step's environment, so the code that
-      # runs here is only ever a build we published with provenance and you chose by hand. to update,
-      # change the number (docs/PUBLISH.md in the clockwork repo lists releases).
+      # runs here is only ever a release you chose by hand. releases are published by hand and carry no npm
+      # provenance record yet. to update, change the number (docs/PUBLISH.md in the clockwork repo lists releases).
       # two clocks can fire within a minute of each other; the machine's own guard reads its last run from the
       # checkout, and a checkout can be a few seconds behind the previous run's push. so ask github directly:
       # if another tick committed its numbers less than ten minutes ago, this one leaves before it signs anything.
