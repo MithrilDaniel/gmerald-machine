@@ -2252,9 +2252,9 @@
    "n": 3,
    "day": "2026-09-11",
    "startedAt": "2026-09-11T00:03:46.582Z",
-   "pending": true,
+   "pending": false,
    "held": "55.7031",
-   "paid": "55.610208",
+   "paid": "55.703057",
    "seats": 190,
    "scannedAt": "2026-09-11T00:00:30.736Z",
    "lines": [
@@ -3377,30 +3377,35 @@
     {
      "to": "0x739d78b22216389a860a3043940fd731256ae276",
      "balance": "256190.410793165262518591",
-     "amount": "0.023465000189275605"
+     "amount": "0.023465000189275605",
+     "tx": "0x01a18fe4d1fc6de6cea979c321f7aa59965855bf21c07514a3542c535c3411e0"
     },
     {
      "to": "0x7bce0d0e427283d9a47287748b002476cc302c6a",
      "balance": "255608.457705525570939513",
-     "amount": "0.023411697923709391"
+     "amount": "0.023411697923709391",
+     "tx": "0xdc7e252b9b534c4fec112417ba0195ff75078174c06d8cdfc84c4ece9a52b2b4"
     },
     {
      "to": "0x85301de323147fed68f47cbe773db06ad9028c84",
      "balance": "251860.009097962772359248",
-     "amount": "0.023068369900565843"
+     "amount": "0.023068369900565843",
+     "tx": "0x49b30dc73889f58728bc5b18e45631cb04e3ac76ebd6ca6c6141f4dcf61105b6"
     },
     {
      "to": "0x1c8bc765564a2208edcb27ad96a0569c3b373e23",
      "balance": "250070.639500055066069984",
-     "amount": "0.022904477903891982"
+     "amount": "0.022904477903891982",
+     "tx": "0xd84c2d977412179f57a6d1b896d2bea79d463e0652ec05d030334fef2144a4ea"
     }
    ],
-   "explorer": "https://robinhoodchain.blockscout.com"
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "finishedAt": "2026-09-11T02:15:44.958Z"
   }
  ],
  "totals": {
-  "drops": 2,
-  "paidGme": 124.704436,
-  "lines": 556
+  "drops": 3,
+  "paidGme": 124.797285,
+  "lines": 560
  }
 }
