@@ -1,13 +1,17 @@
 {
  "presses": 132,
- "snacks": 477,
- "checkedAt": "2026-09-11T07:00:38.591Z",
+ "burnedPct": "20.72",
+ "stashGme": "2804.69",
+ "gmeSunk": "5957.46",
+ "updatedAt": "2026-09-11T07:15:31.689Z",
+ "snacks": 478,
+ "checkedAt": "2026-09-11T07:15:32.318Z",
  "peg": {
   "status": "at-or-above",
-  "premiumBps": 18,
-  "tokenUsd": 21.061939712111815,
+  "premiumBps": 19,
+  "tokenUsd": 21.065162195337223,
   "fairUsd": 21.025,
-  "note": "token $21.06 (3 pools, weighted by the hour's volume) vs fair $21.02 (chainlink 05:55 utc): +0.18%"
+  "note": "token $21.07 (2 pools, weighted by the hour's volume) vs fair $21.02 (chainlink 05:55 utc): +0.19%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -47,13 +51,13 @@
    "burned": 1892492
   },
   "2026-09-11": {
-   "snacks": 16,
-   "gme": 5.885700000000003,
-   "burned": 488107
+   "snacks": 17,
+   "gme": 6.0656000000000025,
+   "burned": 499796
   }
  },
- "holders": 2446,
- "lastRunAt": "2026-09-11T07:00:26.279Z",
+ "holders": 2448,
+ "lastRunAt": "2026-09-11T07:15:22.144Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -62,7 +66,7 @@
  },
  "pendingRecipient": null,
  "board": {
-  "held": "12.2773",
+  "held": "12.6371",
   "seats": 186,
   "drops": 3,
   "paidGme": "124.7973",
@@ -76,25 +80,21 @@
  "claimFloor": 3,
  "gasEth": "0.0494",
  "gasLow": false,
- "queuedGme": "13.716218789717792729",
- "sliceGme": "6.86",
- "slicesLeft": 2,
- "burnedPct": "20.72",
- "stashGme": "2804.51",
- "gmeSunk": "5957.10",
- "status": "snacking. 2 slices of ~7 gme to go",
- "updatedAt": "2026-09-11T07:00:38.591Z",
+ "queuedGme": "13.356497881105300543",
+ "sliceGme": "13.36",
+ "slicesLeft": 1,
+ "status": "failed: fetch failed",
  "seats": 186,
  "gmeRank": {
   "rank": 7,
   "of": 22,
-  "at": "2026-09-11T06:15:35.323Z"
+  "at": "2026-09-11T07:15:26.225Z"
  },
  "basis": {
-  "stashCostUsd": 53492.6,
+  "stashCostUsd": 53496.38,
   "stashAvgUsd": 19.09,
-  "fedCostUsd": 60241.03,
-  "pricedGme": 2802.32,
-  "totalGme": 2802.32
+  "fedCostUsd": 60244.81,
+  "pricedGme": 2802.5,
+  "totalGme": 2802.5
  }
 }
