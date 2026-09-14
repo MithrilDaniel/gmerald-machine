@@ -1,13 +1,13 @@
 {
  "presses": 164,
- "snacks": 583,
- "checkedAt": "2026-09-14T12:33:27.685Z",
+ "snacks": 584,
+ "checkedAt": "2026-09-14T12:45:58.074Z",
  "peg": {
   "status": "below",
-  "premiumBps": -20,
-  "tokenUsd": 20.88974225227158,
+  "premiumBps": -18,
+  "tokenUsd": 20.894550886531697,
   "fairUsd": 20.93265,
-  "note": "token $20.89 (2 pools, weighted by the hour's volume) vs fair $20.93 (chainlink 09:24 utc): -0.20%"
+  "note": "token $20.89 (2 pools, weighted by the hour's volume) vs fair $20.93 (chainlink 09:24 utc): -0.18%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -47,13 +47,13 @@
    "burned": 1108724
   },
   "2026-09-14": {
-   "snacks": 12,
-   "gme": 1.1267,
-   "burned": 130772
+   "snacks": 13,
+   "gme": 1.1965000000000001,
+   "burned": 139080
   }
  },
  "holders": 2431,
- "lastRunAt": "2026-09-14T12:30:24.456Z",
+ "lastRunAt": "2026-09-14T12:45:25.275Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -62,7 +62,7 @@
  },
  "pendingRecipient": null,
  "board": {
-  "held": "2.2536",
+  "held": "2.3932",
   "seats": 192,
   "drops": 6,
   "paidGme": "206.8849",
@@ -76,14 +76,14 @@
  "claimFloor": 3,
  "gasEth": "0.0420",
  "gasLow": false,
- "queuedGme": "2.532883328918790914",
- "sliceGme": "1.27",
- "slicesLeft": 2,
+ "queuedGme": "2.393222759234236044",
+ "sliceGme": "2.39",
+ "slicesLeft": 1,
  "burnedPct": "21.01",
- "stashGme": "2840.88",
- "gmeSunk": "6029.50",
- "status": "snacking. 2 slices of ~1 gme to go",
- "updatedAt": "2026-09-14T12:33:27.685Z",
+ "stashGme": "2840.95",
+ "gmeSunk": "6029.64",
+ "status": "snacking. 1 slice of ~2 gme to go",
+ "updatedAt": "2026-09-14T12:45:58.074Z",
  "seats": 192,
  "gmeRank": {
   "rank": 7,
@@ -91,10 +91,10 @@
   "at": "2026-09-14T12:32:18.502Z"
  },
  "basis": {
-  "stashCostUsd": 54251.63,
+  "stashCostUsd": 54253.09,
   "stashAvgUsd": 19.11,
-  "fedCostUsd": 61000.07,
-  "pricedGme": 2838.35,
-  "totalGme": 2838.35
+  "fedCostUsd": 61001.53,
+  "pricedGme": 2838.42,
+  "totalGme": 2838.42
  }
 }
