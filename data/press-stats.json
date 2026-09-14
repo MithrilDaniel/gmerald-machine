@@ -1,13 +1,13 @@
 {
  "presses": 162,
- "snacks": 574,
- "checkedAt": "2026-09-14T04:01:11.278Z",
+ "snacks": 575,
+ "checkedAt": "2026-09-14T04:15:26.154Z",
  "peg": {
   "status": "below",
-  "premiumBps": -13,
-  "tokenUsd": 21.016775902102324,
+  "premiumBps": -15,
+  "tokenUsd": 21.01316015578027,
   "fairUsd": 21.045,
-  "note": "token $21.02 (2 pools, weighted by the hour's volume) vs fair $21.05 (chainlink 00:21 utc): -0.13%"
+  "note": "token $21.01 (2 pools, weighted by the hour's volume) vs fair $21.05 (chainlink 00:21 utc): -0.15%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -47,13 +47,13 @@
    "burned": 1108724
   },
   "2026-09-14": {
-   "snacks": 3,
-   "gme": 0.42269999999999996,
-   "burned": 48886
+   "snacks": 4,
+   "gme": 0.5788,
+   "burned": 67215
   }
  },
  "holders": 2432,
- "lastRunAt": "2026-09-14T04:00:25.402Z",
+ "lastRunAt": "2026-09-14T04:15:21.400Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -62,7 +62,7 @@
  },
  "pendingRecipient": null,
  "board": {
-  "held": "0.8452",
+  "held": "1.1573",
   "seats": 193,
   "drops": 6,
   "paidGme": "206.8849",
@@ -76,14 +76,14 @@
  "claimFloor": 3,
  "gasEth": "0.0422",
  "gasLow": false,
- "queuedGme": "2.093701965513531408",
- "sliceGme": "0.70",
- "slicesLeft": 3,
+ "queuedGme": "1.781583002694434504",
+ "sliceGme": "0.89",
+ "slicesLeft": 2,
  "burnedPct": "21.00",
- "stashGme": "2840.17",
- "gmeSunk": "6028.09",
- "status": "snacking. 3 slices of ~1 gme to go",
- "updatedAt": "2026-09-14T04:01:11.278Z",
+ "stashGme": "2840.33",
+ "gmeSunk": "6028.40",
+ "status": "snacking. 2 slices of ~1 gme to go",
+ "updatedAt": "2026-09-14T04:15:26.154Z",
  "seats": 193,
  "gmeRank": {
   "rank": 7,
@@ -91,10 +91,10 @@
   "at": "2026-09-14T03:30:24.603Z"
  },
  "basis": {
-  "stashCostUsd": 54236.84,
+  "stashCostUsd": 54240.12,
   "stashAvgUsd": 19.11,
-  "fedCostUsd": 60985.27,
-  "pricedGme": 2837.65,
-  "totalGme": 2837.65
+  "fedCostUsd": 60988.56,
+  "pricedGme": 2837.8,
+  "totalGme": 2837.8
  }
 }
