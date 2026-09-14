@@ -1,13 +1,13 @@
 {
  "presses": 162,
  "snacks": 576,
- "checkedAt": "2026-09-14T05:31:35.518Z",
+ "checkedAt": "2026-09-14T06:31:51.710Z",
  "peg": {
   "status": "below",
-  "premiumBps": -15,
-  "tokenUsd": 21.014253773927383,
+  "premiumBps": -13,
+  "tokenUsd": 21.01678762168438,
   "fairUsd": 21.045,
-  "note": "token $21.01 (2 pools, weighted by the hour's volume) vs fair $21.05 (chainlink 00:21 utc): -0.15%"
+  "note": "token $21.02 (2 pools, weighted by the hour's volume) vs fair $21.05 (chainlink 00:21 utc): -0.13%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -72,7 +72,7 @@
   "nextDrop": "2026-09-15T00:00:00.000Z"
  },
  "unswept": "0",
- "escrowOwed": "0.3759",
+ "escrowOwed": "0.5688",
  "claimFloor": 3,
  "gasEth": "0.0421",
  "gasLow": false,
@@ -86,7 +86,7 @@
  "gmeRank": {
   "rank": 7,
   "of": 22,
-  "at": "2026-09-14T05:31:22.543Z"
+  "at": "2026-09-14T06:31:42.102Z"
  },
  "basis": {
   "stashCostUsd": 54243.41,
