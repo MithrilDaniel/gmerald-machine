@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-14T22:00:28.349Z",
+ "updatedAt": "2026-09-14T22:15:24.545Z",
  "open": false,
  "feeder": "0x2B9747117491AF58c68d6f7982A56E977a510445",
  "tranche": 3105617,
@@ -19,8 +19,8 @@
   "wallet": "0x6Cd4ca590847b6febB98Dc33B6e6e86d26Da506D",
   "earned": {
    "GME": {
-    "amount": 0.08501191640741725,
-    "drops": 3
+    "amount": 0.09365185154497672,
+    "drops": 4
    }
   }
  },
