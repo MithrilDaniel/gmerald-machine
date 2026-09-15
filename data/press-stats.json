@@ -1,7 +1,11 @@
 {
  "presses": 171,
+ "burnedPct": "21.09",
+ "stashGme": "2847.91",
+ "gmeSunk": "6043.57",
+ "updatedAt": "2026-09-15T01:01:16.408Z",
  "snacks": 602,
- "checkedAt": "2026-09-15T02:00:24.445Z",
+ "checkedAt": "2026-09-15T02:47:03.575Z",
  "peg": {
   "status": "below",
   "premiumBps": -8,
@@ -77,16 +81,12 @@
  "gasEth": "0.0351",
  "gasLow": false,
  "queuedGme": "0",
- "burnedPct": "21.09",
- "stashGme": "2847.91",
- "gmeSunk": "6043.57",
- "status": "napping between claims",
- "updatedAt": "2026-09-15T01:01:16.408Z",
- "seats": 183,
+ "status": "failed: RPC Request failed.",
+ "seats": 182,
  "gmeRank": {
   "rank": 7,
-  "of": 22,
-  "at": "2026-09-15T01:30:29.286Z"
+  "of": 23,
+  "at": "2026-09-15T02:30:35.193Z"
  },
  "basis": {
   "stashCostUsd": 54404.13,
