@@ -5,7 +5,7 @@
  "gmeSunk": "6046.97",
  "updatedAt": "2026-09-15T08:00:47.669Z",
  "snacks": 608,
- "checkedAt": "2026-09-15T10:35:44.204Z",
+ "checkedAt": "2026-09-15T11:00:43.716Z",
  "peg": {
   "status": "below",
   "premiumBps": -37,
@@ -85,8 +85,8 @@
  "seats": 172,
  "gmeRank": {
   "rank": 7,
-  "of": 23,
-  "at": "2026-09-15T09:50:31.099Z"
+  "of": 22,
+  "at": "2026-09-15T11:00:33.537Z"
  },
  "basis": {
   "stashCostUsd": 54440.85,
