@@ -4,37 +4,37 @@
  "watch": {
   "0x8366a39cc670b4001a1121b8f6a443a643e40951": {
    "name": "PoolManager",
-   "gme": 47266.622038337,
+   "gme": 47113.068116176975,
    "code": 24009,
    "out": true
   },
   "0xe2b46c905e12ab8e2f864e4821a4325884c1b126": {
    "name": "UniswapV3Pool",
-   "gme": 6373.012547450149,
+   "gme": 5697.785821455283,
    "code": 22142,
    "out": true
   },
   "0xe9713f453adb9245b19559790c96f470a18f2fdf": {
    "name": "UniswapV3Pool",
-   "gme": 9971.55779458235,
+   "gme": 10108.245283262324,
    "code": 22142,
    "out": true
   },
   "0x5795d227dcc305afe212bef18e81b111def7c324": {
    "name": "ERC1967Proxy",
-   "gme": 6750.017774930393,
+   "gme": 6576.468612408587,
    "code": 130,
    "out": false
   },
   "0x6f02324d20cc679d0e585290caa6b16bacbc0f77": {
    "name": "RehypeDopplerHookInitializer",
-   "gme": 3502.537759250686,
+   "gme": 3502.5702309748776,
    "code": 14564,
    "out": true
   },
   "0xcef7501b9b060a599a81735bead6641c0e6baf46": {
    "name": "SafeProxy",
-   "gme": 8533.842412788992,
+   "gme": 8603.365745384688,
    "code": 171,
    "out": false
   },
@@ -45,7 +45,7 @@
   },
   "0xc6bcc95043dc48c204bb2d57fb264a10efe0a607": {
    "name": "UniswapV3Pool",
-   "gme": 178.64207941171668,
+   "gme": 205.14914876495303,
    "code": 22142,
    "out": true
   },
@@ -61,13 +61,13 @@
    "out": false
   },
   "0xf60633d02690e2a15a54ab919925f3d038df163e": {
-   "gme": 2947.171088901026,
+   "gme": 2947.2130873631427,
    "code": 0,
    "out": false
   },
   "0xd3afeb2a57f70ef218aa82451c51b2fb0416ac9e": {
    "name": "V2FeeEscrow",
-   "gme": 4396.943378214889,
+   "gme": 4434.66407386484,
    "code": 1932,
    "out": true
   },
@@ -77,7 +77,7 @@
    "out": false
   },
   "0x53e68553ca08f512423628d64c01b0a14dfcda99": {
-   "gme": 138.34588380988887,
+   "gme": 145.2842221561301,
    "code": 0,
    "out": false
   },
@@ -151,7 +151,7 @@
    "out": false
   },
   "0x9f736f87e6293ac1bd9142e257dbfac8b7acf1ae": {
-   "gme": 3734.9496280790095,
+   "gme": 3883.0715787968006,
    "code": 0,
    "out": false
   },
@@ -166,12 +166,12 @@
    "out": false
   },
   "0x51c72848c68a965f66fa7a88855f9f7784502a7f": {
-   "gme": 9991.234785585188,
+   "gme": 10574.239995436548,
    "code": 20099,
    "out": true
   },
   "0x2f4579ca81717d3d61bf8b6f06571877bbe54a07": {
-   "gme": 4565.876422570333,
+   "gme": 4634.117779304943,
    "code": 5914,
    "out": true
   },
@@ -186,7 +186,7 @@
    "out": false
   },
   "0x06dbf838867d5a626496346179710a14d66d7870": {
-   "gme": 2063.8941510458308,
+   "gme": 2020.1004089257515,
    "code": 11293,
    "out": true
   },
@@ -201,24 +201,24 @@
    "out": false
   },
   "0x48a097df16c7844a33b1c3d11ab353457846e13f": {
-   "gme": 184.35965943151658,
+   "gme": 184.37038992535705,
    "code": 2650,
    "out": true
   }
  },
- "lastBlock": "63526625",
+ "lastBlock": "63562072",
  "rank": 7,
- "of": 24,
- "at": "2026-09-15T08:45:33.408Z",
+ "of": 23,
+ "at": "2026-09-15T09:50:31.099Z",
  "above": [
   {
    "address": "0xcef7501b9b060a599a81735bead6641c0e6baf46",
-   "gme": 8534,
+   "gme": 8603,
    "name": "SafeProxy"
   },
   {
    "address": "0x5795d227dcc305afe212bef18e81b111def7c324",
-   "gme": 6750,
+   "gme": 6576,
    "name": "ERC1967Proxy"
   },
   {
@@ -232,7 +232,7 @@
   },
   {
    "address": "0x9f736f87e6293ac1bd9142e257dbfac8b7acf1ae",
-   "gme": 3735
+   "gme": 3883
   },
   {
    "address": "0xf60633d02690e2a15a54ab919925f3d038df163e",
