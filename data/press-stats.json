@@ -1,7 +1,11 @@
 {
  "presses": 173,
+ "burnedPct": "21.12",
+ "stashGme": "2849.61",
+ "gmeSunk": "6046.97",
+ "updatedAt": "2026-09-15T08:00:47.669Z",
  "snacks": 608,
- "checkedAt": "2026-09-15T09:00:27.942Z",
+ "checkedAt": "2026-09-15T09:15:35.812Z",
  "peg": {
   "status": "below",
   "premiumBps": -37,
@@ -77,11 +81,7 @@
  "gasEth": "0.0350",
  "gasLow": false,
  "queuedGme": "0",
- "burnedPct": "21.12",
- "stashGme": "2849.61",
- "gmeSunk": "6046.97",
- "status": "napping between claims",
- "updatedAt": "2026-09-15T08:00:47.669Z",
+ "status": "failed: Missing or invalid parameters.",
  "seats": 174,
  "gmeRank": {
   "rank": 7,
