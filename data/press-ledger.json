@@ -1,24 +1,6 @@
 {
  "presses": [
   {
-   "n": 719,
-   "ts": "2026-09-13T13:30:34.800Z",
-   "explorer": "https://robinhoodchain.blockscout.com",
-   "kind": "snack",
-   "note": "pressed · double: price 59.4% under its recent high",
-   "burnedGmerald": "51269",
-   "burnGmeSpent": "0.3597",
-   "stashedGme": "0.3597",
-   "opsMovedGme": "0.0000",
-   "pegStatus": "below (-0.68%)",
-   "burnTx": "0x151bfa3ac73867fd384df6cab95cdfc5675181acf11f6ab89bcc90f19e562bb9",
-   "stashTx": "0x7b611e3065a2edc5c6c0066538219a5d4170d94282785fd0c6ce61302f14ff2d",
-   "serviceGme": "0.0000",
-   "boardGme": "0.7195",
-   "gmeUsd": 21.115,
-   "k": 561
-  },
-  {
    "n": 720,
    "ts": "2026-09-13T13:46:06.848Z",
    "explorer": "https://robinhoodchain.blockscout.com",
@@ -1055,29 +1037,36 @@
    "gmeUsd": 21.5808,
    "claimedGme": "1.9883",
    "k": 174
+  },
+  {
+   "n": 783,
+   "ts": "2026-09-15T12:16:44.049Z",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "kind": "snack",
+   "note": "pressed · double: price 28.1% under its recent high · plus 40093 that was already waiting in the burn wallet",
+   "burnedGmerald": "65136",
+   "burnGmeSpent": "0.1553",
+   "stashedGme": "0.1553",
+   "opsMovedGme": "0.0000",
+   "pegStatus": "below (-0.43%)",
+   "burnTx": "0x41417a888d38dc5df1033d6aa9115fa0c092e0e222d23ff4c9978a30d32d05d1",
+   "stashTx": "0x3d362547cb751b13e26a741528f7dfcba6f7910072af7857857d5544d8b9cdff",
+   "serviceGme": "0.0000",
+   "boardGme": "0.3107",
+   "gmeUsd": 21.5808,
+   "k": 609
   }
  ],
- "stashScanBlock": "63642084",
+ "stashScanBlock": "63650740",
  "totals": {
   "press": 174,
-  "snack": 608,
-  "burnGme": 3197.3564604552585,
-  "stashedGme": 2847.0870604552597,
-  "burnedGmerald": 210229762
+  "snack": 609,
+  "burnGme": 3197.5117604552584,
+  "stashedGme": 2847.2423604552596,
+  "burnedGmerald": 210294898
  },
  "meta": {
   "boardDay": "2026-09-15",
-  "boardHeld": "6074131715083386578",
-  "pendingLegs": {
-   "startedAt": "2026-09-15T12:00:28.948Z",
-   "note": "pressed · double: price 28.2% under its recent high",
-   "burnedGmerald": "0",
-   "burnGmeSpent": "0.248541663223665703",
-   "stashedGme": "0",
-   "opsMovedGme": "0",
-   "pegStatus": "below (-0.38%)",
-   "serviceGme": "0",
-   "gmeUsd": 21.5808
-  }
+  "boardHeld": "6384808794112968707"
  }
 }

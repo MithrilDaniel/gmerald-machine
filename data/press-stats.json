@@ -1,18 +1,13 @@
 {
- "presses": 173,
- "burnedPct": "21.12",
- "stashGme": "2849.61",
- "gmeSunk": "6046.97",
- "updatedAt": "2026-09-15T08:00:47.669Z",
- "status": "failed: RPC Request failed.",
- "snacks": 608,
- "checkedAt": "2026-09-15T12:01:21.753Z",
+ "presses": 174,
+ "snacks": 609,
+ "checkedAt": "2026-09-15T12:16:44.049Z",
  "peg": {
   "status": "below",
-  "premiumBps": -37,
-  "tokenUsd": 21.501252396411733,
+  "premiumBps": -43,
+  "tokenUsd": 21.48821427644862,
   "fairUsd": 21.5808,
-  "note": "token $21.50 (2 pools, weighted by the hour's volume) vs fair $21.58 (chainlink 21:15 utc): -0.37%"
+  "note": "token $21.49 (2 pools, weighted by the hour's volume) vs fair $21.58 (chainlink 21:15 utc): -0.43%"
  },
  "locked": {
   "tokens": "81632653.061224489792284161",
@@ -52,13 +47,13 @@
    "burned": 821725
   },
   "2026-09-15": {
-   "snacks": 9,
-   "gme": 2.7885999999999997,
-   "burned": 461129
+   "snacks": 10,
+   "gme": 2.9438999999999997,
+   "burned": 526265
   }
  },
- "holders": 2406,
- "lastRunAt": "2026-09-15T12:00:28.948Z",
+ "holders": 2405,
+ "lastRunAt": "2026-09-15T12:15:21.228Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -67,8 +62,8 @@
  },
  "pendingRecipient": null,
  "board": {
-  "held": "5.5770",
-  "seats": 174,
+  "held": "6.3848",
+  "seats": 173,
   "drops": 7,
   "paidGme": "221.0359",
   "lastDrop": "2026-09-15T01:01:09.790Z",
@@ -77,11 +72,18 @@
   "nextDrop": "2026-09-16T00:00:00.000Z"
  },
  "unswept": "0",
- "escrowOwed": "0.8575",
+ "escrowOwed": "0.0000",
  "claimFloor": 3,
- "gasEth": "0.0350",
+ "gasEth": "0.0349",
  "gasLow": false,
- "queuedGme": "0",
+ "queuedGme": "7.006162952172132966",
+ "sliceGme": "1.75",
+ "slicesLeft": 4,
+ "burnedPct": "21.13",
+ "stashGme": "2849.77",
+ "gmeSunk": "6047.28",
+ "status": "snacking. 4 slices of ~2 gme to go",
+ "updatedAt": "2026-09-15T12:16:44.049Z",
  "seats": 173,
  "gmeRank": {
   "rank": 7,
@@ -89,10 +91,10 @@
   "at": "2026-09-15T12:00:40.089Z"
  },
  "basis": {
-  "stashCostUsd": 54440.85,
+  "stashCostUsd": 54444.2,
   "stashAvgUsd": 19.12,
-  "fedCostUsd": 61189.29,
-  "pricedGme": 2847.09,
-  "totalGme": 2847.09
+  "fedCostUsd": 61192.64,
+  "pricedGme": 2847.24,
+  "totalGme": 2847.24
  }
 }
