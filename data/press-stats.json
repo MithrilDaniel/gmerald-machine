@@ -5,7 +5,7 @@
  "gmeSunk": "6050.90",
  "updatedAt": "2026-09-15T14:51:34.222Z",
  "snacks": 614,
- "checkedAt": "2026-09-15T15:30:28.270Z",
+ "checkedAt": "2026-09-15T15:45:22.603Z",
  "peg": {
   "status": "at-or-above",
   "premiumBps": 12,
@@ -81,7 +81,7 @@
  "sliceGme": "3.66",
  "slicesLeft": 3,
  "status": "failed: Missing or invalid parameters.",
- "seats": 174,
+ "seats": 173,
  "gmeRank": {
   "rank": 7,
   "of": 26,
