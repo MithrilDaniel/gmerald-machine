@@ -4,8 +4,9 @@
  "stashGme": "2849.61",
  "gmeSunk": "6046.97",
  "updatedAt": "2026-09-15T08:00:47.669Z",
+ "status": "failed: RPC Request failed.",
  "snacks": 608,
- "checkedAt": "2026-09-15T11:45:32.328Z",
+ "checkedAt": "2026-09-15T12:01:21.753Z",
  "peg": {
   "status": "below",
   "premiumBps": -37,
@@ -57,7 +58,7 @@
   }
  },
  "holders": 2406,
- "lastRunAt": "2026-09-15T08:00:31.678Z",
+ "lastRunAt": "2026-09-15T12:00:28.948Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -81,12 +82,11 @@
  "gasEth": "0.0350",
  "gasLow": false,
  "queuedGme": "0",
- "status": "failed: Missing or invalid parameters.",
  "seats": 173,
  "gmeRank": {
   "rank": 7,
   "of": 22,
-  "at": "2026-09-15T11:00:33.537Z"
+  "at": "2026-09-15T12:00:40.089Z"
  },
  "basis": {
   "stashCostUsd": 54440.85,
