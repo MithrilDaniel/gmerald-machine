@@ -58,7 +58,7 @@
   }
  },
  "holders": 2415,
- "lastRunAt": "2026-09-15T01:15:21.736Z",
+ "lastRunAt": "2026-09-15T01:30:23.495Z",
  "phase": "pool",
  "graduationPct": null,
  "feeRecipient": {
@@ -84,11 +84,11 @@
  "queuedGme": "2.174005340789266533",
  "sliceGme": "1.09",
  "slicesLeft": 2,
- "seats": 184,
+ "seats": 183,
  "gmeRank": {
   "rank": 7,
-  "of": 23,
-  "at": "2026-09-15T00:30:35.494Z"
+  "of": 22,
+  "at": "2026-09-15T01:30:29.286Z"
  },
  "basis": {
   "stashCostUsd": 54404.13,
