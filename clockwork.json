@@ -42,15 +42,14 @@
  },
  "slices": {
   "rule": {
-   "kind": "spread",
-   "hours": 1
+   "kind": "oneclip"
   },
   "dip": {
    "on": true,
    "bandBps": 1000,
    "multiplier": 2
   },
-  "quoteSanityBps": 1500,
+  "quoteSanityBps": 3000,
   "maxSlippageBps": 300,
   "minSlice": 0.05
  },
