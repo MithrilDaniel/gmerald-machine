@@ -29,11 +29,11 @@
   "treasury": "0x259c3Fc3Dad6B8e418b44c238C7Be65284244e4A"
  },
  "split": {
-  "burnBps": 2500,
-  "treasuryBps": 2500,
+  "burnBps": 10000,
+  "treasuryBps": 0,
   "opsBps": 0,
   "serviceBps": 0,
-  "boardBps": 5000
+  "boardBps": 0
  },
  "schedule": {
   "cadenceMin": 15,

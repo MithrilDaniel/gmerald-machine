@@ -1,0 +1,49 @@
+# the machine's last run. a button, not a clock: it has no schedule and does nothing until someone presses it.
+# two phases, each pressed by hand in GitHub (Actions → finale → Run workflow):
+#   burn-dry   prints what an all-burn press would do and signs nothing
+#   burn       claims what waits in the escrow and burns all of it, one slice every 15 minutes, then stops
+# both refuse to run unless clockwork.json's split is burn 10000 and everything else 0, and unless the press ledger holds
+# nothing back for the board (meta.boardHeld is 0): the founder decided on 2026-09-21 that what the machine held for the
+# board is burned with the rest, and a value left there would sit in the wallet for good.
+# the pinned version is the one that ran the machine from 2026-09-08: clockwork-press 0.4.0.
+name: finale
+on:
+  workflow_dispatch:
+    inputs:
+      phase: { description: "burn-dry | burn", default: burn-dry, type: choice, options: [burn-dry, burn] }
+permissions: { contents: write }
+concurrency: { group: clockwork, cancel-in-progress: false }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      npm_config_ignore_scripts: "true"
+      MACHINE_WALLET_KEY: ${{ secrets.MACHINE_WALLET_KEY }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with: { node-version: 22 }
+      - name: who may press this
+        run: |
+          if [ "${{ github.actor }}" != "${{ github.repository_owner }}" ]; then echo "only the repository's owner runs the finale"; exit 1; fi
+      - name: the last press, all of it burned
+        run: |
+          set -e
+          node -e "const s=require('./clockwork.json').split; if(s.burnBps!==10000||s.treasuryBps!==0||s.opsBps!==0||s.serviceBps!==0||(s.boardBps||0)!==0){console.error('clockwork.json is not set to all-burn (burnBps 10000, everything else 0). refusing.');process.exit(1)}"
+          node -e "const h=BigInt((require('./data/press-ledger.json').meta||{}).boardHeld||'0'); if(h!==0n){console.error('the press ledger still holds '+h+' wei back for the board; set meta.boardHeld to 0 first, or it will sit in the wallet for good. refusing.');process.exit(1)}"
+          if [ "${{ inputs.phase }}" = "burn-dry" ]; then npx --yes clockwork-press@0.4.0 dry; exit 0; fi
+          git config user.name "clockwork"; git config user.email "clockwork@users.noreply.github.com"
+          for i in 1 2 3 4 5 6 7 8; do
+            npx --yes clockwork-press@0.4.0 press || echo "this tick ended with an error; the numbers it wrote are kept"
+            git add data/ && (git diff --cached --quiet || (git commit -qm "clockwork: the last press, tick $i" && git pull -q --rebase origin main && git push -q origin main))
+            left=$(node -e "console.log(Number(require('./data/press-stats.json').queuedGme||0))")
+            echo "still queued: $left"
+            if [ "$i" -gt 1 ] && node -e "process.exit(Number(require('./data/press-stats.json').queuedGme||0) < 0.05 ? 0 : 1)"; then echo "nothing left to burn"; break; fi
+            sleep 905   # the machine refuses two ticks in one quarter hour
+          done
+      - name: commit the numbers
+        if: always()
+        run: |
+          git config user.name "clockwork"; git config user.email "clockwork@users.noreply.github.com"
+          git add data/ && (git diff --cached --quiet || (git commit -qm "clockwork: finale" && git pull -q --rebase origin main && git push -q origin main))
